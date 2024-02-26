@@ -81,7 +81,6 @@ async function pushgit(){
 
 async function checkallurl(data){
     var listsplit = data.split('\n');
-    var newlist = '';
     await listsplit.reduce(async (memo, ise) => {
         await memo;
         if (! ise || ise == ''){ return 0; }
@@ -91,42 +90,35 @@ async function checkallurl(data){
             if(isesplit[1].trim().indexOf('http')==0){
                 if(await verifyurl(isesplit[1].trim())){
                     console.log('append:', ise);
-                    newlist += '\n' + ise;
+                    await execmd('printf -- \"\n' + ise + '\"' + ' >>live.txt');
                 } else {
                     console.log('过滤无法访问的源:', ise);
                 }
                 return;
             }
         }
-        newlist += '\n' + ise;
+        await execmd('printf -- \"\n' + ise + '\"' + ' >>live.txt');
     }, '');
-    return newlive;
 }
 async function loadexturl(){
     // const loadlist='https://raw.githubusercontent.com/qist/tvbox/master/list.txt'
-    let newlive='';
-
+    await execmd('printf -- \"' + '\"' + ' >live.txt');
     await CHECK_URL.reduce(async (memo, url) => {
         await memo;
         if (! url || url == ''){ return 0; }
 
         var content = await geturlcontent(url);
-        console.log(content);
+        // console.log(content);
         if(content){
-            newlive += '\n' + (await checkallurl(content));
+            await checkallurl(content);
         }
     }, '');
-    var savestatu = await execmd('echo -E \"' + newlive + '\"' + '>live.txt');
-    if( savestatu[0] ){
-        console.log('保存直播链接失败');
-        return;
-    }
     await pushgit();
-    console.log('状态:', newlive, 'over');
+    console.log('状态:', 'over');
 }
 
 console.log('开始测试live地址并保存');
-// loadexturl();
-pushgit();
+loadexturl();
+// pushgit();
 
 
