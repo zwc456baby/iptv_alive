@@ -254,98 +254,6 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物1台,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
-百事通,#genre#
-CCTV16-4K,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV-4K,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8
-欢笑剧场4k,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc4k/15000000/mnf.m3u8
-CCTV1 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+ 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV6 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-江苏卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jswshd8m/8000000/mnf.m3u8
-广西卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gxwshd8m/8000000/mnf.m3u8
-四川卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/scwshd/8000000/mnf.m3u8
-湖南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-浙江卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zjwshd8m/8000000/mnf.m3u8
-东方卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfwshd8m/8000000/mnf.m3u8
-北京卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bjwshd8m/8000000/mnf.m3u8
-天津卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/tjwshd8m/8000000/mnf.m3u8
-辽宁卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/lnwshd8m/8000000/mnf.m3u8
-安徽卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ahwshd8m/8000000/mnf.m3u8
-黑龙江卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hljwshd8m/8000000/mnf.m3u8
-广东卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gdwshd8m/8000000/mnf.m3u8
-深圳卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/szwshd8m/8000000/mnf.m3u8
-湖北卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hubeiws8m/8000000/mnf.m3u8
-吉林卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jlwshd8m/8000000/mnf.m3u8
-山东卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/sdws8m/8000000/mnf.m3u8
-江西卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jxws8m/8000000/mnf.m3u8
-河南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hnwshd8m/8000000/mnf.m3u8
-河北卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hbwshd8m/8000000/mnf.m3u8
-甘肃卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gswshd8m/8000000/mnf.m3u8
-重庆卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cqws8m/8000000/mnf.m3u8
-东南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dnwshd8m/8000000/mnf.m3u8
-云南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ynwshd8m/8000000/mnf.m3u8
-贵州卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gzwshd8m/8000000/mnf.m3u8
-海南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-欢笑剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc8m/8000000/mnf.m3u8
-劲爆体育 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-快乐垂钓 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/klcd8m/8000000/mnf.m3u8
-金鹰纪实 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jyjs8m/8000000/mnf.m3u8
-戏曲精选 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xqjx8m/8000000/mnf.m3u8
-上海第一财经 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dycjhd8m/8000000/mnf.m3u8
-上视新闻 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海都市 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dshd8m/8000000/mnf.m3u8
-上海纪实 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jspdhd/4000000
-东方影视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfyshd8m/8000000/mnf.m3u8
-五星体育 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-上视外语 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/icshd8m/8000000/mnf.m3u8
-七彩戏剧 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-上海教育 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/setvhd/8000000/mnf.m3u8
-全纪实 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qjshd8m/8000000/mnf.m3u8
-生活时尚 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/shss8m/8000000/mnf.m3u8
-新视觉 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xsjhd8m/8000000/mnf.m3u8
-游戏风云 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/yxfy8m/8000000/mnf.m3u8
-热门综艺 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmzy8m/8000000/mnf.m3u8
-超级体育 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcsj8m/8000000/mnf.m3u8
-健康养生 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jkys8m/8000000/mnf.m3u8
-百变课堂 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbkt8m/8000000/mnf.m3u8
-看天下精选 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ktxjx8m/8000000/mnf.m3u8
-华语影院 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hyyy8m/8000000/mnf.m3u8
-电竞天堂 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/djtt8m/8000000/mnf.m3u8
-青春动漫 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcdm8m/8000000/mnf.m3u8
-宝宝动画 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbdh8m/8000000/mnf.m3u8
-星光影院 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xgyy8m/8000000/mnf.m3u8
-谍战剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dzjc8m/8000000/mnf.m3u8
-全球大片 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qqdp8m/8000000/mnf.m3u8
-热门剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmjc8m/8000000/mnf.m3u8
-陶瓷高清 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/taocihd/8000000/mnf.m3u8
-中国教育-1 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-中国教育-4 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-卡酷少儿 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/kkse8m/8000000/mnf.m3u8
-纪实科教 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dajs8m/8000000/mnf.m3u8
-茶频道 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
-足球高清 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zqpd8m/8000000/mnf.m3u8
-炫动卡通 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hhxd8m/8000000/mnf.m3u8
-东方财经 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-都市剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dsjc8m/8000000/mnf.m3u8
-动漫秀场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dmxc8m/8000000/mnf.m3u8
-法治天地 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/fztd8m/8000000/mnf.m3u8
-金色学堂 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jingsepd8m/8000000/mnf.m3u8
-魅力足球 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 小地方,#genre#
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -377,26 +285,13 @@ CCTV17 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-show
 IPV6-1,#genre#
 CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2 财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8
 CCTV-4 中文国际,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-5 体育,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV-5+ 体育赛事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-6 电影,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221228123/index.m3u8
-CCTV-7 国防军事,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/ott.mobaibox.com/PLTV/4/224/3221227690/index.m3u8
-CCTV-8 电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227473/index.m3u8
-CCTV-9 纪录,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227614/index.m3u8
 CCTV-10 科教,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/ott.mobaibox.com/PLTV/4/224/3221228286/index.m3u8
 CCTV-11 戏曲,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8
 CCTV-12 社会与法,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228401/index.m3u8
-CCTV-13 新闻,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
 CCTV-14 少儿,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228292/index.m3u8
 CCTV-15 音乐,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228404/index.m3u8
-CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
-CCTV-17 农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8
-CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -404,25 +299,13 @@ CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/P
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-重庆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
-东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228428/index.m3u8
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-广西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228183/index.m3u8
-贵州卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228136/index.m3u8
-海南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228139/index.m3u8
-河北卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228106/index.m3u8
 黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228221/index.m3u8
 湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-江西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228109/index.m3u8
-吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228130/index.m3u8
 辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227517/index.m3u8
 深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 四川卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/ott.mobaibox.com/PLTV/4/224/3221228171/index.m3u8
 天津卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/ott.mobaibox.com/PLTV/4/224/3221225591/index.m3u8
-新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
 山西卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安多卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -438,12 +321,9 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 哒啵电竞,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
@@ -593,14 +473,10 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 西安新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225993/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-纯享4K.备用,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 CCTV16-4K.备用,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-CCTV8K超高清.2160P,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 4K修复 7M,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 爱上4K.备用,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-江苏移动8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 CCTV,#genre#
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 卫视,#genre#
@@ -649,11 +525,10 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 斗鱼,#genre#
 斗鱼电影4K,http://43.138.170.29:35455/douyu/9249162
 斗鱼电影HD1,http://43.138.170.29:35455/douyu/4246519
-斗鱼电影HD4,http://43.138.170.29:35455/douyu/85894
+斗鱼电影HD3,http://43.138.170.29:35455/douyu/122402
 斗鱼电影HD5,http://43.138.170.29:35455/douyu/263824
 斗鱼电影HD6,http://43.138.170.29:35455/douyu/747764
 斗鱼电影HD7,http://43.138.170.29:35455/douyu/20415
-斗鱼电影HD9,http://43.138.170.29:35455/douyu/323876
 斗鱼电影HD10,http://43.138.170.29:35455/douyu/6140589
 斗鱼电影HD11,http://43.138.170.29:35455/douyu/8770422
 斗鱼电影HD12,http://43.138.170.29:35455/douyu/2436390
@@ -661,13 +536,26 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 斗鱼电影HD14,http://43.138.170.29:35455/douyu/36337
 斗鱼电影HD15,http://43.138.170.29:35455/douyu/413573
 斗鱼电影HD18,http://43.138.170.29:35455/douyu/9292492
+斗鱼电影HD21,http://43.138.170.29:35455/douyu/10395986
 斗鱼电影HD22,http://43.138.170.29:35455/douyu/252802
+斗鱼电影HD24,http://43.138.170.29:35455/douyu/315131
 斗鱼电影HD25,http://43.138.170.29:35455/douyu/8945323
 斗鱼电影HD26,http://43.138.170.29:35455/douyu/2516864
+斗鱼电影HD27,http://43.138.170.29:35455/douyu/248753
 斗鱼电影HD28,http://43.138.170.29:35455/douyu/4332
 斗鱼电影HD29,http://43.138.170.29:35455/douyu/9651304
+斗鱼电影HD30,http://43.138.170.29:35455/douyu/9650887
 斗鱼电影HD31,http://43.138.170.29:35455/douyu/8814650
+斗鱼电影HD32,http://43.138.170.29:35455/douyu/10240510
+斗鱼电影HD34,http://43.138.170.29:35455/douyu/8985415
 斗鱼电影HD35,http://43.138.170.29:35455/douyu/1165374
+斗鱼电影HD36,http://43.138.170.29:35455/douyu/1735337
+斗鱼电影HD37,http://43.138.170.29:35455/douyu/6537888
+斗鱼电影HD38,http://43.138.170.29:35455/douyu/6003761
+斗鱼电影HD39,http://43.138.170.29:35455/douyu/9683979
+斗鱼电影HD40,http://43.138.170.29:35455/douyu/1226741
+斗鱼电影HD41,http://43.138.170.29:35455/douyu/59612
+斗鱼电影HD42,http://43.138.170.29:35455/douyu/925724
 斗鱼电影1,http://43.138.170.29:35455/douyu/5423
 斗鱼电影2,http://43.138.170.29:35455/douyu/2935323
 斗鱼电影3,http://43.138.170.29:35455/douyu/6027991
@@ -779,7 +667,6 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 斗鱼影评HD11,http://43.138.170.29:35455/douyu/8656759
 斗鱼影评1,http://43.138.170.29:35455/douyu/9562616
 斗鱼影评2,http://43.138.170.29:35455/douyu/9527700
-斗鱼影评3,http://43.138.170.29:35455/douyu/2758565
 斗鱼影评4,http://43.138.170.29:35455/douyu/9573592
 斗鱼美食HD1,http://43.138.170.29:35455/douyu/2901080
 斗鱼美食HD2,http://43.138.170.29:35455/douyu/8144937
@@ -819,87 +706,39 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 斗鱼游戏HD7,http://43.138.170.29:35455/douyu/10235695
 斗鱼游戏HD8,http://43.138.170.29:35455/douyu/4346416
 斗鱼游戏HD9,http://43.138.170.29:35455/douyu/1080583
-斗鱼游戏HD10,http://43.138.170.29:35455/douyu/9829796
 斗鱼游戏HD11,http://43.138.170.29:35455/douyu/1863767
 斗鱼游戏HD12,http://43.138.170.29:35455/douyu/288016
 斗鱼游戏HD14,http://43.138.170.29:35455/douyu/2947432
-斗鱼游戏HD15,http://43.138.170.29:35455/douyu/9545122
-斗鱼游戏HD16,http://43.138.170.29:35455/douyu/9412634
-斗鱼游戏HD17,http://43.138.170.29:35455/douyu/10208727
 斗鱼游戏HD18,http://43.138.170.29:35455/douyu/582442
-斗鱼游戏HD19,http://43.138.170.29:35455/douyu/10389796
-斗鱼游戏HD20,http://43.138.170.29:35455/douyu/10072325
-斗鱼游戏HD21,http://43.138.170.29:35455/douyu/10608093
 斗鱼游戏HD22,http://43.138.170.29:35455/douyu/6601808
-斗鱼游戏HD23,http://43.138.170.29:35455/douyu/9747078
-斗鱼游戏HD24,http://43.138.170.29:35455/douyu/7929609
 斗鱼游戏HD25,http://43.138.170.29:35455/douyu/2038911
 斗鱼游戏HD26,http://43.138.170.29:35455/douyu/486816
-斗鱼游戏HD27,http://43.138.170.29:35455/douyu/459911
 斗鱼游戏HD28,http://43.138.170.29:35455/douyu/4872710
-斗鱼游戏HD29,http://43.138.170.29:35455/douyu/428250
-斗鱼游戏HD30,http://43.138.170.29:35455/douyu/703747
 斗鱼游戏3,http://43.138.170.29:35455/douyu/2018127
 斗鱼游戏4,http://43.138.170.29:35455/douyu/24422
-斗鱼游戏7,http://43.138.170.29:35455/douyu/65251
-斗鱼游戏8,http://43.138.170.29:35455/douyu/6712395
 斗鱼游戏9,http://43.138.170.29:35455/douyu/693708
 斗鱼棋牌1,http://43.138.170.29:35455/douyu/1227260
-斗鱼棋牌2,http://43.138.170.29:35455/douyu/851040
 斗鱼棋牌3,http://43.138.170.29:35455/douyu/6264482
 斗鱼棋牌4,http://43.138.170.29:35455/douyu/4369877
 斗鱼歌舞HD1,http://43.138.170.29:35455/douyu/6129898
-斗鱼歌舞HD2,http://43.138.170.29:35455/douyu/920891
-斗鱼歌舞HD3,http://43.138.170.29:35455/douyu/5943125
-斗鱼歌舞HD4,http://43.138.170.29:35455/douyu/3763915
-斗鱼歌舞HD5,http://43.138.170.29:35455/douyu/1607787
-斗鱼歌舞HD6,http://43.138.170.29:35455/douyu/549212
-斗鱼歌舞HD7,http://43.138.170.29:35455/douyu/592561
-斗鱼歌舞HD8,http://43.138.170.29:35455/douyu/10386206
-斗鱼歌舞HD9,http://43.138.170.29:35455/douyu/8711854
-斗鱼歌舞HD10,http://43.138.170.29:35455/douyu/87777
-斗鱼歌舞HD11,http://43.138.170.29:35455/douyu/90999
-斗鱼歌舞HD12,http://43.138.170.29:35455/douyu/591657
-斗鱼歌舞HD13,http://43.138.170.29:35455/douyu/1011
-斗鱼歌舞1,http://43.138.170.29:35455/douyu/6266000
-斗鱼歌舞2,http://43.138.170.29:35455/douyu/5628327
-斗鱼歌舞3,http://43.138.170.29:35455/douyu/4582220
-斗鱼歌舞4,http://43.138.170.29:35455/douyu/5103313
 斗鱼歌舞5,http://43.138.170.29:35455/douyu/5746514
 斗鱼歌舞6,http://43.138.170.29:35455/douyu/7771387
-斗鱼歌舞7,http://43.138.170.29:35455/douyu/5367400
-斗鱼歌舞8,http://43.138.170.29:35455/douyu/5278299
 斗鱼歌舞9,http://43.138.170.29:35455/douyu/10118209
-斗鱼歌舞10,http://43.138.170.29:35455/douyu/170426
-斗鱼歌舞11,http://43.138.170.29:35455/douyu/22619
 斗鱼歌舞12,http://43.138.170.29:35455/douyu/5772555
-斗鱼歌舞13,http://43.138.170.29:35455/douyu/6508860
 斗鱼歌舞14,http://43.138.170.29:35455/douyu/92000
 斗鱼歌舞15,http://43.138.170.29:35455/douyu/9837104
 斗鱼综艺HD1,http://43.138.170.29:35455/douyu/131977
-斗鱼综艺HD2,http://43.138.170.29:35455/douyu/7298973
 斗鱼综艺HD3,http://43.138.170.29:35455/douyu/9236042
-斗鱼MTV1,http://43.138.170.29:35455/douyu/231464
 斗鱼MTV2,http://43.138.170.29:35455/douyu/5635000
 斗鱼MTV3,http://43.138.170.29:35455/douyu/17732
 斗鱼MTV4,http://43.138.170.29:35455/douyu/9586235
 斗鱼搏击,http://43.138.170.29:35455/douyu/425809
-斗鱼车评,http://43.138.170.29:35455/douyu/321987
 斗鱼读书,http://43.138.170.29:35455/douyu/11211
 斗鱼旅游1,http://43.138.170.29:35455/douyu/1109218
 斗鱼旅游2,http://43.138.170.29:35455/douyu/6580174
-斗鱼收藏,http://43.138.170.29:35455/douyu/9812765
-斗鱼书画1,http://43.138.170.29:35455/douyu/10633755
-斗鱼书画2,http://43.138.170.29:35455/douyu/10633758
 斗鱼书画3,http://43.138.170.29:35455/douyu/1319043
-斗鱼书画4,http://43.138.170.29:35455/douyu/3436981
-斗鱼书画5,http://43.138.170.29:35455/douyu/7856263
-斗鱼书画6,http://43.138.170.29:35455/douyu/1066432
 斗鱼书画7,http://43.138.170.29:35455/douyu/6327572
-斗鱼怀旧1,http://43.138.170.29:35455/douyu/10891424
-斗鱼怀旧2,http://43.138.170.29:35455/douyu/8023713
 斗鱼怀旧3,http://43.138.170.29:35455/douyu/30191
-斗鱼怀旧4,http://43.138.170.29:35455/douyu/9654885
 斗鱼怀旧5,http://43.138.170.29:35455/douyu/7505922
 斗鱼怀旧6,http://43.138.170.29:35455/douyu/60117
 斗鱼怀旧8,http://43.138.170.29:35455/douyu/9432
@@ -907,23 +746,15 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 斗鱼旅行1,http://43.138.170.29:35455/douyu/9970646
 斗鱼旅行2,http://43.138.170.29:35455/douyu/6563725
 斗鱼旅行3,http://43.138.170.29:35455/douyu/1668562
-斗鱼旅行4,http://43.138.170.29:35455/douyu/9511092
-斗鱼旅行5,http://43.138.170.29:35455/douyu/9358196
 斗鱼旅行6,http://43.138.170.29:35455/douyu/454867
 斗鱼旅行7,http://43.138.170.29:35455/douyu/4837387
 斗鱼旅行8,http://43.138.170.29:35455/douyu/850030
-斗鱼旅行9,http://43.138.170.29:35455/douyu/9378464
 斗鱼旅行10,http://43.138.170.29:35455/douyu/10253213
-斗鱼旅行11,http://43.138.170.29:35455/douyu/10319093
 斗鱼旅行12,http://43.138.170.29:35455/douyu/442280
 斗鱼旅行13,http://43.138.170.29:35455/douyu/1867491
-斗鱼旅行14,http://43.138.170.29:35455/douyu/1255068
 斗鱼旅行15,http://43.138.170.29:35455/douyu/9314668
 斗鱼旅行16,http://43.138.170.29:35455/douyu/9172774
-斗鱼旅行17,http://43.138.170.29:35455/douyu/4834417
-斗鱼旅行18,http://43.138.170.29:35455/douyu/2240445
 虎牙,#genre#
-周星星,http://43.138.170.29:35455/huya/24470631
 猫和老鼠,http://43.138.170.29:35455/huya/11352879
 中华小当家,http://43.138.170.29:35455/huya/11342413
 甄子丹,http://43.138.170.29:35455/huya/11352935
@@ -935,12 +766,10 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 南征北战,http://43.138.170.29:35455/huya/11336578
 路飞,http://43.138.170.29:35455/huya/16913382
 麻雀,http://43.138.170.29:35455/huya/11352881
-女神影院,http://43.138.170.29:35455/huya/99350550
-极限挑战,http://43.138.170.29:35455/huya/11352914
+倩女幽魂,http://43.138.170.29:35455/huya/11601970
 救援电影,http://43.138.170.29:35455/huya/21059586
 欧美电影,http://43.138.170.29:35455/huya/11352880
 史诗战争,http://43.138.170.29:35455/huya/21059556
-金马影院,http://43.138.170.29:35455/huya/128600025
 生活大爆炸,http://43.138.170.29:35455/huya/11342417
 天雷滚滚,http://43.138.170.29:35455/huya/11352945
 我是大哥大,http://43.138.170.29:35455/huya/23652317
@@ -1028,7 +857,6 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 地下交通站,http://43.138.170.29:35455/huya/11342433
 邻里一家亲,http://43.138.170.29:35455/huya/11342426
 YY,#genre#
-好久不见-武林外传,http://43.138.170.29:35455/yy/1355914397
 封神榜,http://43.138.170.29:35455/yy/1353426319
 【战狼3吴京】首播,http://43.138.170.29:35455/yy/1456668939
 过年了,http://43.138.170.29:35455/yy/1454553780
@@ -1193,12 +1021,16 @@ YY恐怖电影,http://43.138.170.29:35455/yy/24066336
 三国演义94年经典版,http://43.138.170.29:35455/yy/1354936241
 经典港片电影,http://43.138.170.29:35455/yy/1382793140
 天道-9.2高分好剧,http://43.138.170.29:35455/yy/1382735574
+纪晓岚专属,http://43.138.170.29:35455/yy/63826933
 少年包青天第三部,http://43.138.170.29:35455/yy/1382736814
 宋小宝小品合集,http://43.138.170.29:35455/yy/1354931577
 炊事班的故事II,http://43.138.170.29:35455/yy/1382736885
+【狂飙】4K,http://43.138.170.29:35455/yy/1382773728
 你最爱的宋小宝,http://43.138.170.29:35455/yy/1354936198
 读心神探,http://43.138.170.29:35455/yy/1382736875
 小兵张嘎,http://43.138.170.29:35455/yy/1354930225
+父母的爱情,http://43.138.170.29:35455/yy/1382768483
+主播-求关注.24小时,http://43.138.170.29:35455/yy/1456625255
 斗罗斗破动漫,http://43.138.170.29:35455/yy/1420843376
 ！,http://43.138.170.29:35455/yy/1353255986
 笑傲帮,http://43.138.170.29:35455/yy/1382735555
@@ -1206,47 +1038,72 @@ YY恐怖电影,http://43.138.170.29:35455/yy/24066336
 斗罗斗破,http://43.138.170.29:35455/yy/1354768831
 康熙王朝,http://43.138.170.29:35455/yy/1382736818
 【动漫】斗罗斗破,http://43.138.170.29:35455/yy/35742228
+港剧《驼枪师姐》,http://43.138.170.29:35455/yy/1382688521
+辽宁七七与你相见恨晚,http://43.138.170.29:35455/yy/1451760831
+狂飙 蓝光,http://43.138.170.29:35455/yy/1382787686
 【神雕侠侣】金庸经典,http://43.138.170.29:35455/yy/1382704651
 今夜欢乐颂,http://43.138.170.29:35455/yy/1382735572
 易中天品三国完整版,http://43.138.170.29:35455/yy/1461244449
 【荒野求生】德爷 贝爷,http://43.138.170.29:35455/yy/39123221
+【荒野求生】德爷贝爷蓝光,http://43.138.170.29:35455/yy/24759907
 我的前半生,http://43.138.170.29:35455/yy/1382735564
 为什么你一直是单身,http://43.138.170.29:35455/yy/89431014
 电影,http://43.138.170.29:35455/yy/1458819360
 济公游记,http://43.138.170.29:35455/yy/1355265814
+一起合租的快乐生活~,http://43.138.170.29:35455/yy/38525272
 我爱我家,http://43.138.170.29:35455/yy/1382735557
 炊事班的故事III,http://43.138.170.29:35455/yy/1382736716
 今晚80后脱口秀,http://43.138.170.29:35455/yy/1382745098
 家花与野花,http://43.138.170.29:35455/yy/1354420982
+妹子高分搞笑电影,http://43.138.170.29:35455/yy/33478222
+现代军旅,http://43.138.170.29:35455/yy/1382830638
 【案发现场】1-4部全集,http://43.138.170.29:35455/yy/33567888
 鬼片恐怖片 美女陪你看,http://43.138.170.29:35455/yy/1335509613
 经典电影,http://43.138.170.29:35455/yy/1355142167
+港剧悬疑破案,http://43.138.170.29:35455/yy/10425097
 【动漫】斗罗斗破超清全屏,http://43.138.170.29:35455/yy/1382689904
 笑傲江湖,http://43.138.170.29:35455/yy/1354930909
 吴京 特种战士,http://43.138.170.29:35455/yy/76101626
 【林正英】僵尸 鬼片,http://43.138.170.29:35455/yy/30668277
+经典港剧《法证先锋》,http://43.138.170.29:35455/yy/1461993663
 烧脑破案24h陪你看,http://43.138.170.29:35455/yy/1355171357
 经典鬼片3000部,http://43.138.170.29:35455/yy/29460894
 【电影】顶级动作电影,http://43.138.170.29:35455/yy/24923327
+【战狼3吴京首播】,http://43.138.170.29:35455/yy/1354752072
+【电影】超然巨作,http://43.138.170.29:35455/yy/26623173
 【电影】超然巨作,http://43.138.170.29:35455/yy/29170933
 倚天屠龙记,http://43.138.170.29:35455/yy/1354755003
 少年包青天三,http://43.138.170.29:35455/yy/61318527
+倚天屠龙记,http://43.138.170.29:35455/yy/1382818085
+吕小羊鬼片 正在直播,http://43.138.170.29:35455/yy/1354792118
 利刃出击乐乐陪看,http://43.138.170.29:35455/yy/1352946111
+港剧《驼枪师姐》,http://43.138.170.29:35455/yy/1382688521
 父母爱情,http://43.138.170.29:35455/yy/1354926650
 林正英 经典鬼片,http://43.138.170.29:35455/yy/1353312849
 岳云鹏-屌丝也能追到美女,http://43.138.170.29:35455/yy/1382736882
 宫心计,http://43.138.170.29:35455/yy/1382828769
 开饭了大熊猫,http://43.138.170.29:35455/yy/1382741641
+《刑事侦缉档案》4部连播,http://43.138.170.29:35455/yy/95017956
 天龙神雕经典回忆,http://43.138.170.29:35455/yy/68260522
+破案港剧,http://43.138.170.29:35455/yy/1350670730
+《石敢当》六耳猕猴,http://43.138.170.29:35455/yy/1394156613
+[影视] 济公游记,http://43.138.170.29:35455/yy/25221556
 欧阳震华带你起飞,http://43.138.170.29:35455/yy/1456829119
 案发现场全集,http://43.138.170.29:35455/yy/1354775242
+新主播，求照顾,http://43.138.170.29:35455/yy/1394102549
+战狼6吴京首播,http://43.138.170.29:35455/yy/1354330332
 西游记后传,http://43.138.170.29:35455/yy/1382736846
+德爷单挑荒野,http://43.138.170.29:35455/yy/62370558
 法证先锋,http://43.138.170.29:35455/yy/1354930939
+24H欧美惊悚科幻,http://43.138.170.29:35455/yy/1382656234
+燃爆动作片,http://43.138.170.29:35455/yy/1382736801
 欢乐集结号,http://43.138.170.29:35455/yy/1354931582
 伪装者,http://43.138.170.29:35455/yy/1354936244
 小欢喜,http://43.138.170.29:35455/yy/1382737888
+国内喜剧,http://43.138.170.29:35455/yy/1382736862
 法证先锋Ⅱ,http://43.138.170.29:35455/yy/1354888736
 【港台】鬼片 惊悚 喜剧,http://43.138.170.29:35455/yy/1351030377
+【荒野求生】德爷贝爷各种,http://43.138.170.29:35455/yy/21831828
 恐怖片 女鬼,http://43.138.170.29:35455/yy/1455891197
 炊事班的故事,http://43.138.170.29:35455/yy/1382749901
 易中天品三国,http://43.138.170.29:35455/yy/1354931498
@@ -1255,43 +1112,64 @@ YY恐怖电影,http://43.138.170.29:35455/yy/24066336
 亲爱的热爱的,http://43.138.170.29:35455/yy/1354932433
 我的体育老师,http://43.138.170.29:35455/yy/1382745169
 岳云鹏-屌丝也能追到美女,http://43.138.170.29:35455/yy/1382736882
+炊事班的故事,http://43.138.170.29:35455/yy/1382646846
 最美的青春,http://43.138.170.29:35455/yy/1382745116
 贾玲春晚小品,http://43.138.170.29:35455/yy/1382736720
+《鉴证实录》两部连播,http://43.138.170.29:35455/yy/1460336255
 平凡岁月,http://43.138.170.29:35455/yy/1382745117
 林正英 经典鬼片,http://43.138.170.29:35455/yy/1353312849
 天龙八部蓝光,http://43.138.170.29:35455/yy/1355652820
 宋小宝春晚小品合集,http://43.138.170.29:35455/yy/1382736866
+[影视] 济公游记,http://43.138.170.29:35455/yy/25221556
+插翅难逃,http://43.138.170.29:35455/yy/1355279371
 大话西游至尊宝,http://43.138.170.29:35455/yy/1382736910
 薛元帅传奇,http://43.138.170.29:35455/yy/31313785
 野山鹰-影视剧,http://43.138.170.29:35455/yy/1354932395
 百家讲坛――之明太祖朱元璋,http://43.138.170.29:35455/yy/1354936149
 大明王朝,http://43.138.170.29:35455/yy/1382736879
+赵本山小品,http://43.138.170.29:35455/yy/28882933
 华子系列,http://43.138.170.29:35455/yy/1354888726
 中国味道 第4季-美食纪录片,http://43.138.170.29:35455/yy/1382736845
 【玄幻电影】,http://43.138.170.29:35455/yy/1355065896
 夏洛特烦恼-国内电影-喜剧,http://43.138.170.29:35455/yy/1354936201
+神探狄仁杰,http://43.138.170.29:35455/yy/1461133588
 金婚,http://43.138.170.29:35455/yy/1382736832
 惊恐鬼怪盗暮,http://43.138.170.29:35455/yy/1382749525
 【港片】赌片 动作,http://43.138.170.29:35455/yy/24921161
 赌神-发哥,http://43.138.170.29:35455/yy/1354889044
 无敌燕双鹰,http://43.138.170.29:35455/yy/1354825244
+鬼片.惊悚.港片,http://43.138.170.29:35455/yy/1355497884
 敢死队-精彩动作电影,http://43.138.170.29:35455/yy/1382735573
 鸡毛飞上天,http://43.138.170.29:35455/yy/1354806550
 国外科幻,http://43.138.170.29:35455/yy/1382736800
 欢乐集结号,http://43.138.170.29:35455/yy/1382735550
 热门喜剧,http://43.138.170.29:35455/yy/1354931495
 毒液：致命守护者,http://43.138.170.29:35455/yy/1382745095
+枕上书正在直播,http://43.138.170.29:35455/yy/1351844200
+【爱靓】虎子鬼片,http://43.138.170.29:35455/yy/1356075628
 变形金刚,http://43.138.170.29:35455/yy/1382736803
 三国演义,http://43.138.170.29:35455/yy/32788000
 《神雕侠侣》黯然销魂,http://43.138.170.29:35455/yy/1394000563
 的直播间,http://43.138.170.29:35455/yy/1354129442
+余zui,http://43.138.170.29:35455/yy/31809939
+华语经典电影,http://43.138.170.29:35455/yy/1382779065
 24小时循环播电视剧,http://43.138.170.29:35455/yy/53320802
 小敏,http://43.138.170.29:35455/yy/1382736890
+陈情令,http://43.138.170.29:35455/yy/1382745121
+最可爱的人,http://43.138.170.29:35455/yy/1382779528
+国内外惊悚恐怖片,http://43.138.170.29:35455/yy/1356075281
+我和僵尸有个约会,http://43.138.170.29:35455/yy/1355277480
+加勒比海盗系列,http://43.138.170.29:35455/yy/1382749914
+院线动作大片,http://43.138.170.29:35455/yy/1382736900
+动漫奥斯卡正在直播,http://43.138.170.29:35455/yy/1382626335
+经典大片合集,http://43.138.170.29:35455/yy/1382749895
+电影百团大战,http://43.138.170.29:35455/yy/1382736871
 第一滴血全集,http://43.138.170.29:35455/yy/1354932355
 热血抗日电影,http://43.138.170.29:35455/yy/1382749907
 小甜甜 勇敢的心,http://43.138.170.29:35455/yy/1382658790
 空谷幽兰,http://43.138.170.29:35455/yy/1382745182
 福贵,http://43.138.170.29:35455/yy/1354926537
+林正英鬼片 陪你惊悚,http://43.138.170.29:35455/yy/1356072278
 澳门风云,http://43.138.170.29:35455/yy/1459243913
 本山快乐营,http://43.138.170.29:35455/yy/1354933529
 单挑荒野第一季,http://43.138.170.29:35455/yy/1354933535
@@ -1300,6 +1178,8 @@ YY恐怖电影,http://43.138.170.29:35455/yy/24066336
 宝莲灯前传,http://43.138.170.29:35455/yy/1354931631
 黑冰,http://43.138.170.29:35455/yy/1354932427
 小沈阳春晚小品,http://43.138.170.29:35455/yy/1382749941
+战争 二战 《狙击电影》,http://43.138.170.29:35455/yy/1450828388
+大进军全集：红色系列电影,http://43.138.170.29:35455/yy/1382745083
 洪金宝福星系列,http://43.138.170.29:35455/yy/1354924839
 影视剧场,http://43.138.170.29:35455/yy/1355260855
 公主嫁到,http://43.138.170.29:35455/yy/1382736915
@@ -1580,7 +1460,6 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 缺宅男女-精彩港剧,http://43.138.170.29:35455/yy/1382745088
 超乎意料的国外侦探,http://43.138.170.29:35455/yy/1382735543
 大明宫词,http://43.138.170.29:35455/yy/1382745190
-潘磕惺康谝患 -国产喜剧,http://43.138.170.29:35455/yy/1382741637
 黄大妮-电视剧,http://43.138.170.29:35455/yy/1354930904
 本山快乐营-爆笑小品,http://43.138.170.29:35455/yy/1354930948
 法证先锋Ⅳ,http://43.138.170.29:35455/yy/1354932426
@@ -1714,19 +1593,9 @@ CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
 CCTV4K-25P-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV16-4K25P-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV16-4K-25PHLG源,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t
-虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
-虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
-虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
-斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
 斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
 咪咕体育-4K-HLG源,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕体育-4K源-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-CCTV8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 BESTV,#genre#
 CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
@@ -1846,6 +1715,7 @@ NewTV明星大片,http://gslbserv.itv.cmvideo.cn:80/000000001000/559572061988744
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -1884,6 +1754,7 @@ GOODTV经典音乐河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_defi
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+创世.电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8?zgangd
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
@@ -1919,13 +1790,13 @@ VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 泰·THAIPBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 泰·公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+越·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 Inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
 Astrakhan24(Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
-伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 RTHK,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
@@ -1935,7 +1806,6 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 美国mytime,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-泰国 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 埃及 Mokameleen TV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
 红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
