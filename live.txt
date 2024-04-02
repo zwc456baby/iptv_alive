@@ -94,7 +94,6 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 西安新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225993/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 CCTV8K超高清.2160P,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 爱上4K.备用,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
@@ -1160,6 +1159,7 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 吐槽大会 第5季,http://43.138.170.29:35455/yy/1354889009
 赵本山爆笑小品2,http://43.138.170.29:35455/yy/1354936217
 金装四大才子,http://43.138.170.29:35455/yy/1354926600
+什么会让你快乐,http://43.138.170.29:35455/yy/54886912
 公主嫁到-电视剧,http://43.138.170.29:35455/yy/1354930957
 凡人的品格-影视剧,http://43.138.170.29:35455/yy/1354936116
 怪医文三块-影视剧,http://43.138.170.29:35455/yy/1354936154
@@ -1179,6 +1179,7 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 记忆中的TVB,http://43.138.170.29:35455/yy/1382749951
 寻味顺德-美食纪录片,http://43.138.170.29:35455/yy/1382736844
 德鲁纳酒店-韩剧,http://43.138.170.29:35455/yy/1354931488
+林正英 九叔 僵尸 鬼片,http://43.138.170.29:35455/yy/1382828957
 国内战争,http://43.138.170.29:35455/yy/1354930204
 绝美！航拍中国第1季,http://43.138.170.29:35455/yy/1354936136
 笑傲江湖-电视剧,http://43.138.170.29:35455/yy/1354936128
@@ -1212,19 +1213,25 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 笑傲江湖 第1季,http://43.138.170.29:35455/yy/1382749896
 洗地毯,http://43.138.170.29:35455/yy/1382736859
 国内喜剧,http://43.138.170.29:35455/yy/1382735563
+辽宁951瑶瑶姐,http://43.138.170.29:35455/yy/1355281666
 喜乐街,http://43.138.170.29:35455/yy/1354936231
 丈夫在外有人？真相竟然是！,http://43.138.170.29:35455/yy/1354932375
 霸道总裁爱上女秘书,http://43.138.170.29:35455/yy/1354936167
 经典24小时电影剧场,http://43.138.170.29:35455/yy/37880083
 蜥蜴世界,http://43.138.170.29:35455/yy/1382735545
+白鹿原,http://43.138.170.29:35455/yy/1451064143
 大酱园,http://43.138.170.29:35455/yy/1382736824
+仙女影视,http://43.138.170.29:35455/yy/1356038038
 富滇风云,http://43.138.170.29:35455/yy/1382736853
 王牌逗王牌-喜剧,http://43.138.170.29:35455/yy/1354658048
 换子成龙-影视剧,http://43.138.170.29:35455/yy/1354932397
 熊出没-国漫,http://43.138.170.29:35455/yy/1354936157
+吐槽大会 第1季,http://43.138.170.29:35455/yy/1354936210
 老表，你好Hea！-精彩港剧,http://43.138.170.29:35455/yy/1382736873
 笑声传奇,http://43.138.170.29:35455/yy/1382736880
+做你的百变少女,http://43.138.170.29:35455/yy/1355549868
 溏心风暴之家好月圆,http://43.138.170.29:35455/yy/1354888747
+五行只缺你,http://43.138.170.29:35455/yy/22325556
 动作大片-热血开打,http://43.138.170.29:35455/yy/1354936168
 跳远生命线-优质港剧,http://43.138.170.29:35455/yy/1382735566
 热播国内侦探片,http://43.138.170.29:35455/yy/1382736820
@@ -1283,7 +1290,8 @@ CCTV16-4K-25PHLG源,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_
 斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
 咪咕体育-4K-HLG源,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕体育-4K源-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 BESTV,#genre#
 CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
@@ -1396,6 +1404,8 @@ NewTV明星大片,http://gslbserv.itv.cmvideo.cn:80/000000001000/559572061988744
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 世界,#genre#
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+莲花卫视,http://www.238311.cn:555/lotustv.php
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
@@ -1440,6 +1450,7 @@ GOODTV经典音乐河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_defi
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+创世.电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8?zgangd
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
@@ -1451,7 +1462,6 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
@@ -1491,7 +1501,6 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 美国mytime,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 泰国 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 埃及 Mokameleen TV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
 红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
