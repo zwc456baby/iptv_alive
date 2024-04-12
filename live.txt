@@ -64,9 +64,9 @@ CCTV15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 西安新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225993/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
-CCTV8K超高清.2160P,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 爱上4K.备用,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+江苏移动8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 CCTV,#genre#
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 卫视,#genre#
@@ -267,7 +267,6 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 斗鱼影评2,http://43.138.170.29:35455/douyu/9527700
 斗鱼影评3,http://43.138.170.29:35455/douyu/2758565
 斗鱼影评4,http://43.138.170.29:35455/douyu/9573592
-斗鱼美食HD1,http://43.138.170.29:35455/douyu/2901080
 斗鱼美食HD2,http://43.138.170.29:35455/douyu/8144937
 斗鱼科普HD1,http://43.138.170.29:35455/douyu/9317739
 斗鱼科普HD2,http://43.138.170.29:35455/douyu/9447974
@@ -275,86 +274,31 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 斗鱼科普HD4,http://43.138.170.29:35455/douyu/9385288
 斗鱼科普HD5,http://43.138.170.29:35455/douyu/8434598
 斗鱼科普HD6,http://43.138.170.29:35455/douyu/7357786
-斗鱼科普1,http://43.138.170.29:35455/douyu/2022306
-斗鱼科普2,http://43.138.170.29:35455/douyu/2172818
-斗鱼科普3,http://43.138.170.29:35455/douyu/3570168
 斗鱼科普4,http://43.138.170.29:35455/douyu/838632
 斗鱼科普5,http://43.138.170.29:35455/douyu/9412981
 斗鱼科普6,http://43.138.170.29:35455/douyu/8667001
 斗鱼历史1,http://43.138.170.29:35455/douyu/9738854
 斗鱼历史2,http://43.138.170.29:35455/douyu/10102281
 斗鱼历史3,http://43.138.170.29:35455/douyu/1330448
-斗鱼历史4,http://43.138.170.29:35455/douyu/227670
-斗鱼历史5,http://43.138.170.29:35455/douyu/2320076
-斗鱼历史6,http://43.138.170.29:35455/douyu/4275776
-斗鱼军事1,http://43.138.170.29:35455/douyu/1877962
-斗鱼军事2,http://43.138.170.29:35455/douyu/9530915
-斗鱼体育1,http://43.138.170.29:35455/douyu/10302182
 斗鱼体育2,http://43.138.170.29:35455/douyu/9170147
-斗鱼体育3,http://43.138.170.29:35455/douyu/9471214
-斗鱼说法1,http://43.138.170.29:35455/douyu/10379308
 斗鱼说法2,http://43.138.170.29:35455/douyu/709710
-斗鱼说法3,http://43.138.170.29:35455/douyu/8805
-斗鱼游戏4K1,http://43.138.170.29:35455/douyu/4147
-斗鱼游戏4K2,http://43.138.170.29:35455/douyu/5832903
 斗鱼游戏HD1,http://43.138.170.29:35455/douyu/5720533
-斗鱼游戏HD2,http://43.138.170.29:35455/douyu/101367
-斗鱼游戏HD3,http://43.138.170.29:35455/douyu/641986
-斗鱼游戏HD5,http://43.138.170.29:35455/douyu/3168536
-斗鱼游戏HD6,http://43.138.170.29:35455/douyu/5524515
-斗鱼游戏HD7,http://43.138.170.29:35455/douyu/10235695
 斗鱼游戏HD8,http://43.138.170.29:35455/douyu/4346416
 斗鱼游戏HD9,http://43.138.170.29:35455/douyu/1080583
-斗鱼游戏HD10,http://43.138.170.29:35455/douyu/9829796
 斗鱼游戏HD11,http://43.138.170.29:35455/douyu/1863767
 斗鱼游戏HD12,http://43.138.170.29:35455/douyu/288016
 斗鱼游戏HD14,http://43.138.170.29:35455/douyu/2947432
-斗鱼游戏HD15,http://43.138.170.29:35455/douyu/9545122
-斗鱼游戏HD16,http://43.138.170.29:35455/douyu/9412634
-斗鱼游戏HD17,http://43.138.170.29:35455/douyu/10208727
-斗鱼游戏HD18,http://43.138.170.29:35455/douyu/582442
-斗鱼游戏HD19,http://43.138.170.29:35455/douyu/10389796
-斗鱼游戏HD20,http://43.138.170.29:35455/douyu/10072325
-斗鱼游戏HD21,http://43.138.170.29:35455/douyu/10608093
 斗鱼游戏HD22,http://43.138.170.29:35455/douyu/6601808
-斗鱼游戏HD23,http://43.138.170.29:35455/douyu/9747078
-斗鱼游戏HD24,http://43.138.170.29:35455/douyu/7929609
 斗鱼游戏HD25,http://43.138.170.29:35455/douyu/2038911
-斗鱼游戏HD26,http://43.138.170.29:35455/douyu/486816
-斗鱼游戏HD27,http://43.138.170.29:35455/douyu/459911
 斗鱼游戏HD28,http://43.138.170.29:35455/douyu/4872710
-斗鱼游戏HD29,http://43.138.170.29:35455/douyu/428250
-斗鱼游戏HD30,http://43.138.170.29:35455/douyu/703747
 斗鱼游戏3,http://43.138.170.29:35455/douyu/2018127
 斗鱼游戏4,http://43.138.170.29:35455/douyu/24422
-斗鱼游戏7,http://43.138.170.29:35455/douyu/65251
-斗鱼游戏8,http://43.138.170.29:35455/douyu/6712395
 斗鱼游戏9,http://43.138.170.29:35455/douyu/693708
 斗鱼棋牌1,http://43.138.170.29:35455/douyu/1227260
-斗鱼棋牌2,http://43.138.170.29:35455/douyu/851040
 斗鱼棋牌3,http://43.138.170.29:35455/douyu/6264482
 斗鱼棋牌4,http://43.138.170.29:35455/douyu/4369877
 斗鱼歌舞HD1,http://43.138.170.29:35455/douyu/6129898
-斗鱼歌舞HD2,http://43.138.170.29:35455/douyu/920891
-斗鱼歌舞HD3,http://43.138.170.29:35455/douyu/5943125
-斗鱼歌舞HD4,http://43.138.170.29:35455/douyu/3763915
-斗鱼歌舞HD5,http://43.138.170.29:35455/douyu/1607787
-斗鱼歌舞HD6,http://43.138.170.29:35455/douyu/549212
-斗鱼歌舞HD7,http://43.138.170.29:35455/douyu/592561
-斗鱼歌舞HD8,http://43.138.170.29:35455/douyu/10386206
-斗鱼歌舞HD9,http://43.138.170.29:35455/douyu/8711854
-斗鱼歌舞HD10,http://43.138.170.29:35455/douyu/87777
-斗鱼歌舞HD11,http://43.138.170.29:35455/douyu/90999
-斗鱼歌舞HD12,http://43.138.170.29:35455/douyu/591657
-斗鱼歌舞HD13,http://43.138.170.29:35455/douyu/1011
-斗鱼歌舞1,http://43.138.170.29:35455/douyu/6266000
-斗鱼歌舞2,http://43.138.170.29:35455/douyu/5628327
-斗鱼歌舞3,http://43.138.170.29:35455/douyu/4582220
-斗鱼歌舞4,http://43.138.170.29:35455/douyu/5103313
-斗鱼歌舞5,http://43.138.170.29:35455/douyu/5746514
 斗鱼歌舞6,http://43.138.170.29:35455/douyu/7771387
-斗鱼歌舞7,http://43.138.170.29:35455/douyu/5367400
-斗鱼歌舞8,http://43.138.170.29:35455/douyu/5278299
 斗鱼歌舞9,http://43.138.170.29:35455/douyu/10118209
 斗鱼歌舞10,http://43.138.170.29:35455/douyu/170426
 斗鱼歌舞11,http://43.138.170.29:35455/douyu/22619
@@ -374,8 +318,15 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 斗鱼读书,http://43.138.170.29:35455/douyu/11211
 斗鱼旅游1,http://43.138.170.29:35455/douyu/1109218
 斗鱼旅游2,http://43.138.170.29:35455/douyu/6580174
+斗鱼收藏,http://43.138.170.29:35455/douyu/9812765
+斗鱼书画1,http://43.138.170.29:35455/douyu/10633755
+斗鱼书画2,http://43.138.170.29:35455/douyu/10633758
 斗鱼书画3,http://43.138.170.29:35455/douyu/1319043
+斗鱼书画4,http://43.138.170.29:35455/douyu/3436981
+斗鱼书画5,http://43.138.170.29:35455/douyu/7856263
+斗鱼书画6,http://43.138.170.29:35455/douyu/1066432
 斗鱼书画7,http://43.138.170.29:35455/douyu/6327572
+斗鱼怀旧1,http://43.138.170.29:35455/douyu/10891424
 斗鱼怀旧2,http://43.138.170.29:35455/douyu/8023713
 斗鱼怀旧3,http://43.138.170.29:35455/douyu/30191
 斗鱼怀旧4,http://43.138.170.29:35455/douyu/9654885
@@ -854,6 +805,7 @@ YY恐怖电影,http://43.138.170.29:35455/yy/24066336
 传奇英雄,http://43.138.170.29:35455/yy/1382735578
 勇敢的心,http://43.138.170.29:35455/yy/1354792480
 精彩动作电影享不停,http://43.138.170.29:35455/yy/1382736809
+憨豆先生-经典喜剧,http://43.138.170.29:35455/yy/1354936239
 X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 战争大片-国外电影,http://43.138.170.29:35455/yy/1382736857
 舌尖上的中国第2季,http://43.138.170.29:35455/yy/1354930943
@@ -883,7 +835,6 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 国威影院 仙侠系列,http://43.138.170.29:35455/yy/1354866665
 国内战争大片合集,http://43.138.170.29:35455/yy/1382749950
 红楼梦1987经典版,http://43.138.170.29:35455/yy/1382745084
-正阳门下小女人,http://43.138.170.29:35455/yy/1508778570
 大汉贤后卫子夫,http://43.138.170.29:35455/yy/1382735569
 怀旧小品,http://43.138.170.29:35455/yy/1382736821
 国外动作大片,http://43.138.170.29:35455/yy/1382735540
@@ -1164,6 +1115,7 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 笑傲江湖 第1季,http://43.138.170.29:35455/yy/1382749896
 洗地毯,http://43.138.170.29:35455/yy/1382736859
 国内喜剧,http://43.138.170.29:35455/yy/1382735563
+辽宁951瑶瑶姐,http://43.138.170.29:35455/yy/1355281666
 喜乐街,http://43.138.170.29:35455/yy/1354936231
 丈夫在外有人？真相竟然是！,http://43.138.170.29:35455/yy/1354932375
 霸道总裁爱上女秘书,http://43.138.170.29:35455/yy/1354936167
@@ -1240,8 +1192,6 @@ CCTV16-4K-25PHLG源,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_
 斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
 咪咕体育-4K-HLG源,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕体育-4K源-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-CCTV8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 BESTV,#genre#
@@ -1356,7 +1306,6 @@ NewTV明星大片,http://gslbserv.itv.cmvideo.cn:80/000000001000/559572061988744
 世界,#genre#
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 无线新闻台,http://r.jdshipin.com/CkuBd
-莲花卫视,http://www.238311.cn:555/lotustv.php
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
@@ -1394,7 +1343,6 @@ GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 GOODTV旅行,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
 GOODTV经典音乐河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
@@ -1444,7 +1392,6 @@ CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 Inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
 Astrakhan24(Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 RTHK,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -1456,6 +1403,7 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 美国mytime,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 泰国 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
+半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 埃及 Mokameleen TV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
 红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
