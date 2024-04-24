@@ -1,4 +1,15 @@
 
+2024/4/24 加入一个稳定直播源。质量很高
+
+点播源地址: [https://kv.zwc365.com/tv.json](https://kv.zwc365.com/tv.json)
+
+直播源地址：[https://kv.zwc365.com/tvlive](https://kv.zwc365.com/tvlive)
+
+
+![交流群](https://images.zwc365.com/i/2024/04/22/221925.jpg)
+
+---
+
 tvbox 网络上有许多源。然后直播源无法判断其质量。
 即便是有可用的源，说不定ipv4地址限制了运营商访问。
 例如有的源只允许中国移动ip访问。如果一个个测试的话，心理负担极大
