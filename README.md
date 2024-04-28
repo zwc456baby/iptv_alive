@@ -1,10 +1,6 @@
 
 **所有数据均收集自互联网, 仅做个人测试研究**
 
-点播源地址: [https://kv.zwc365.com/tv.json](https://kv.zwc365.com/tv.json)
-
-直播源地址：[https://kv.zwc365.com/tvlive](https://kv.zwc365.com/tvlive)
-
 **有好用的源地址，或某些官方源，扫下面的二维码提交：**
 
 ![交流群](https://images.zwc365.com/i/2024/04/22/221925.jpg)
