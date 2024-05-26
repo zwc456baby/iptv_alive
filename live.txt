@@ -223,7 +223,6 @@ CCTV-16,http://frp-fly.top:27209/proxy/1213181202/1213181202.m3u8
 泗阳综合频道,http://frp-fly.top:27209/proxy/642523244/642523244.m3u8
 泗阳资讯频道,http://frp-fly.top:27209/proxy/1545407523/1545407523.m3u8
 涟水电视台综合频道,http://frp-fly.top:27209/proxy/1977735434/1977735434.m3u8
-扬州新闻频道,http://frp-fly.top:27209/proxy/454285884/454285884.m3u8
 扬州城市频道,http://frp-fly.top:27209/proxy/1097047630/1097047630.m3u8
 扬州生活频道,http://frp-fly.top:27209/proxy/1605855413/1605855413.m3u8
 扬州邗江频道,http://frp-fly.top:27209/proxy/1768394281/1768394281.m3u8
@@ -251,7 +250,6 @@ CCTV-16,http://frp-fly.top:27209/proxy/1213181202/1213181202.m3u8
 江苏南京玄武湖,http://frp-fly.top:27209/proxy/1985889373/1985889373.m3u8
 南京南站,http://frp-fly.top:27209/proxy/2072143452/2072143452.m3u8
 南京紫金山,http://frp-fly.top:27209/proxy/177566095/177566095.m3u8
-南京音乐台,http://frp-fly.top:27209/proxy/171515367/171515367.m3u8
 南京情侣园,http://frp-fly.top:27209/proxy/185079179/185079179.m3u8
 南京长江大桥,http://frp-fly.top:27209/proxy/1033254824/1033254824.m3u8
 南京栖霞山,http://frp-fly.top:27209/proxy/182710545/182710545.m3u8
@@ -267,6 +265,7 @@ CCTV-16,http://frp-fly.top:27209/proxy/1213181202/1213181202.m3u8
 南京眼,http://frp-fly.top:27209/proxy/1734263806/1734263806.m3u8
 南京五马渡,http://frp-fly.top:27209/proxy/188955121/188955121.m3u8
 浙江台州三门核电站,http://frp-fly.top:27209/proxy/1382819378/1382819378.m3u8
+浙江舟山嵊泗县中心渔港,http://frp-fly.top:27209/proxy/748822183/748822183.m3u8
 浙江温州泰顺县廊桥文化园,http://frp-fly.top:27209/proxy/1144314894/1144314894.m3u8
 浙江舟山东极岛,http://frp-fly.top:27209/proxy/1973269961/1973269961.m3u8
 浙江杭州千岛湖,http://frp-fly.top:27209/proxy/1683811739/1683811739.m3u8
@@ -285,6 +284,7 @@ CCTV-16,http://frp-fly.top:27209/proxy/1213181202/1213181202.m3u8
 四川邛崃天台山,http://frp-fly.top:27209/proxy/690671060/690671060.m3u8
 四川甘孜州石渠县,http://frp-fly.top:27209/proxy/682530961/682530961.m3u8
 四川西昌市邛海景区,http://frp-fly.top:27209/proxy/239112006/239112006.m3u8
+四川成都东安湖体育公园,http://frp-fly.top:27209/proxy/648790008/648790008.m3u8
 四川成都安顺廊桥,http://frp-fly.top:27209/proxy/1937762418/1937762418.m3u8
 四川成都天府熊猫塔,http://frp-fly.top:27209/proxy/1936214178/1936214178.m3u8
 四川成都春熙路,http://frp-fly.top:27209/proxy/614090729/614090729.m3u8
@@ -330,7 +330,6 @@ CCTV13新闻频道,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
 余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
@@ -574,7 +573,6 @@ CGTN西班牙语,video://https://yangshipin.cn/#/tv/home?pid=600002503
 斗鱼电影2,http://43.138.170.29:35455/douyu/2935323
 斗鱼电影3,http://43.138.170.29:35455/douyu/6027991
 斗鱼电影4,http://43.138.170.29:35455/douyu/4105989
-斗鱼电影5,http://43.138.170.29:35455/douyu/6369954
 斗鱼电影6,http://43.138.170.29:35455/douyu/2793084
 斗鱼电影7,http://43.138.170.29:35455/douyu/7494871
 斗鱼电影8,http://43.138.170.29:35455/douyu/8986148
@@ -624,13 +622,20 @@ CGTN西班牙语,video://https://yangshipin.cn/#/tv/home?pid=600002503
 斗鱼电视剧HD14,http://43.138.170.29:35455/douyu/6706214
 斗鱼电视剧HD15,http://43.138.170.29:35455/douyu/6478650
 斗鱼电视剧1,http://43.138.170.29:35455/douyu/299854
+斗鱼电视剧2,http://43.138.170.29:35455/douyu/6899895
 斗鱼电视剧3,http://43.138.170.29:35455/douyu/276200
 斗鱼电视剧4,http://43.138.170.29:35455/douyu/4290711
+斗鱼电视剧5,http://43.138.170.29:35455/douyu/6648727
+斗鱼电视剧6,http://43.138.170.29:35455/douyu/7314294
+斗鱼电视剧7,http://43.138.170.29:35455/douyu/9638983
 斗鱼电视剧8,http://43.138.170.29:35455/douyu/5261342
 斗鱼电视剧9,http://43.138.170.29:35455/douyu/5522351
+斗鱼电视剧10,http://43.138.170.29:35455/douyu/9639508
+斗鱼电视剧11,http://43.138.170.29:35455/douyu/2083382
 斗鱼电视剧12,http://43.138.170.29:35455/douyu/4373285
 斗鱼电视剧13,http://43.138.170.29:35455/douyu/3439096
 斗鱼电视剧14,http://43.138.170.29:35455/douyu/4549169
+斗鱼电视剧15,http://43.138.170.29:35455/douyu/7254536
 斗鱼电视剧16,http://43.138.170.29:35455/douyu/3928r9
 斗鱼电视剧17,http://43.138.170.29:35455/douyu/7270927
 斗鱼电视剧18,http://43.138.170.29:35455/douyu/7116591
@@ -659,9 +664,7 @@ CGTN西班牙语,video://https://yangshipin.cn/#/tv/home?pid=600002503
 斗鱼搞笑HD3,http://43.138.170.29:35455/douyu/9067836
 斗鱼搞笑HD4,http://43.138.170.29:35455/douyu/9817729
 斗鱼搞笑HD5,http://43.138.170.29:35455/douyu/8737695
-斗鱼搞笑1,http://43.138.170.29:35455/douyu/10378551
 斗鱼搞笑2,http://43.138.170.29:35455/douyu/9804180
-斗鱼搞笑3,http://43.138.170.29:35455/douyu/2132902
 斗鱼影评HD2,http://43.138.170.29:35455/douyu/10240495
 斗鱼影评HD3,http://43.138.170.29:35455/douyu/9419771
 斗鱼影评HD4,http://43.138.170.29:35455/douyu/4258555
@@ -676,7 +679,6 @@ CGTN西班牙语,video://https://yangshipin.cn/#/tv/home?pid=600002503
 斗鱼影评2,http://43.138.170.29:35455/douyu/9527700
 斗鱼影评3,http://43.138.170.29:35455/douyu/2758565
 斗鱼影评4,http://43.138.170.29:35455/douyu/9573592
-斗鱼美食HD1,http://43.138.170.29:35455/douyu/2901080
 斗鱼美食HD2,http://43.138.170.29:35455/douyu/8144937
 斗鱼科普HD1,http://43.138.170.29:35455/douyu/9317739
 斗鱼科普HD2,http://43.138.170.29:35455/douyu/9447974
@@ -904,6 +906,7 @@ CGTN西班牙语,video://https://yangshipin.cn/#/tv/home?pid=600002503
 许氏三杰,http://43.138.170.29:35455/huya/11602033
 经典港片,http://43.138.170.29:35455/huya/11352965
 镖行天下,http://43.138.170.29:35455/huya/11352969
+高能反转,http://43.138.170.29:35455/huya/11352887
 喜乐影院,http://43.138.170.29:35455/huya/21059580
 蘑菇影厅,http://43.138.170.29:35455/huya/11601981
 搞笑恐怖,http://43.138.170.29:35455/huya/11601960
@@ -923,14 +926,19 @@ CGTN西班牙语,video://https://yangshipin.cn/#/tv/home?pid=600002503
 地下交通站,http://43.138.170.29:35455/huya/11342433
 邻里一家亲,http://43.138.170.29:35455/huya/11342426
 YY,#genre#
+好久不见-武林外传,http://43.138.170.29:35455/yy/1355914397
 封神榜,http://43.138.170.29:35455/yy/1353426319
 【战狼3吴京】首播,http://43.138.170.29:35455/yy/1456668939
+过年了,http://43.138.170.29:35455/yy/1454553780
+新水浒传,http://43.138.170.29:35455/yy/1356059275
+豪哥带我们发财,http://43.138.170.29:35455/yy/23402146
 电影 古惑仔全集,http://43.138.170.29:35455/yy/1354507447
 神医喜来乐,http://43.138.170.29:35455/yy/1382714119
 德爷单挑荒野,http://43.138.170.29:35455/yy/27772604
 赵本山《超清版》,http://43.138.170.29:35455/yy/1382683959
 纪晓岚,http://43.138.170.29:35455/yy/1352227227
 赵本山《蓝光版》,http://43.138.170.29:35455/yy/32160832
+武林外传,http://43.138.170.29:35455/yy/1354752120
 弹幕天团 下饭神剧,http://43.138.170.29:35455/yy/23512910
 超喜剧地下交通站男神贾贵,http://43.138.170.29:35455/yy/1353428972
 【新三国】蓝光版,http://43.138.170.29:35455/yy/1382705738
@@ -1473,7 +1481,6 @@ X战警系列电影,http://43.138.170.29:35455/yy/1382736893
 三个女人一个因,http://43.138.170.29:35455/yy/1382749953
 外国战争大片,http://43.138.170.29:35455/yy/1382736872
 致敬星爷致敬经典,http://43.138.170.29:35455/yy/1354889048
-影视娱乐剧场,http://43.138.170.29:35455/yy/1354748830
 红色经典影视剧-风语,http://43.138.170.29:35455/yy/1354926671
 家有九凤-影视剧,http://43.138.170.29:35455/yy/1354930894
 舌尖上的中国第一季,http://43.138.170.29:35455/yy/1354930952
@@ -1651,7 +1658,6 @@ BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 CCTV8K,http://159.75.85.63:8765/xxtv8k.php
 CCTV8K-50FPS,http://159.75.85.63:8654/xx8k50fps.php
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
 CCTV4K-25P-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV16-4K25P-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
@@ -1662,8 +1668,7 @@ CCTV16-4K-25PHLG源,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_
 斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
 斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
 咪咕体育-4K-HLG源,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-咪咕体育-4K源-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
@@ -1766,7 +1771,6 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 NewTV,#genre#
-NewTV明星大片,http://gslbserv.itv.cmvideo.cn:80/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044
 黑莓电影,http://gslbserv.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7951969344461621383
 地方,#genre#
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
