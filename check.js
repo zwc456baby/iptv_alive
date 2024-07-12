@@ -5,6 +5,7 @@ const CHECK_URL = [
     "http://kv.zwc365.com/tvlive",
     "https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
     "https://raw.githubusercontent.com/qist/tvbox/master/list.txt",
+    "https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt",
 ];
 
 const PROXY_ENV = 'http_proxy=http://127.0.0.1:7890 https_proxy=http://127.0.0.1:7890';
