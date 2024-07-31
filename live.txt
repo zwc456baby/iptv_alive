@@ -178,17 +178,16 @@ CCTV8K-50FPS,http://159.75.85.63:8654/xx8k50fps.php
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
 CCTV4K-25P-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
-CCTV16-4K25P-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV16-4K-25PHLG源,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t
 虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
 虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
 虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
 斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
 斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
-咪咕体育-4K-HLG源,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕体育-4K源-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-CCTV8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 BESTV,#genre#
 CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
@@ -338,16 +337,12 @@ GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 GOODTV旅行,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
 GOODTV经典音乐河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
-创世.电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8?zgangd
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
@@ -479,8 +474,7 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
-五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
-咪咕24小时奥运,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/yazhoubei/57/20240102/01.m3u8?&HlsSubType=&encrypt=
+
 港澳台,#genre#
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -522,6 +516,7 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 电视剧,#genre#
 古装剧,http://maomao.kandiantv.cn/douyu1.php?id=338759
+庆余年,https://live.metshop.top/huya/795142
 神探狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3395113
 
 未来电视,#genre#
@@ -982,7 +977,6 @@ CCTV16-4K-25PHLG源,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_
 斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
 CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 BESTV,#genre#
-CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 欢笑剧场4k,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
