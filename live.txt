@@ -20,8 +20,9 @@
 余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
-余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -125,9 +126,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 电影_王晶,http://cfss.cc/cdn/hy/11602058.flv
 电影_沈腾,http://cfss.cc/cdn/hy/11601968.flv
 电影_黄渤,http://cfss.cc/cdn/hy/11352876.flv
-电影_强森,http://cfss.cc/cdn/hy/21059581.flv
 电影_漫威,http://cfss.cc/cdn/hy/11602034.flv
-电影_宇宙,http://cfss.cc/cdn/hy/11342428.flv
 电影_怪兽,http://cfss.cc/cdn/hy/21059577.flv
 电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
 电影_玄幻,http://cfss.cc/cdn/hy/11342414.flv
@@ -153,13 +152,11 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 电影_战争片,http://cfss.cc/cdn/hy/21059574.flv
 电影_犯罪片,http://cfss.cc/cdn/hy/11352974.flv
 电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
-电影_高分动作,http://cfss.cc/cdn/hy/11352884.flv
 电影_动作电影,http://cfss.cc/cdn/hy/11602077.flv
 电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
 电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
 电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
 电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
-电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
 电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
 电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
 电影_古墓系列,http://cfss.cc/cdn/hy/11352913.flv
@@ -188,7 +185,6 @@ CCTV8,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CCTV9,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
 CCTV10,http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002146/1.m3u8
 CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV12,http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002147/1.m3u8
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV14,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
@@ -237,6 +233,7 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 西藏卫视,http://[2409:8087:1a0a:df::4039]/wh7f454c46tw2710545171_1093384597/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8?icpid=88888888&RTS=1713110546&from=4&hms_devid=1212&online=1713110546&vqe=3
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 
 港澳台,#genre#
@@ -638,11 +635,9 @@ CCTV16,http://4eae7f.tv.netsite.cc/proxy/1213181202/1213181202.m3u8
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
-余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
@@ -692,7 +687,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
 电影_谍战片,http://cfss.cc/cdn/hy/21059587.flv
 电影_战争片,http://cfss.cc/cdn/hy/21059574.flv
-电影_犯罪片,http://cfss.cc/cdn/hy/11352974.flv
 电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
 电影_高分动作,http://cfss.cc/cdn/hy/11352884.flv
 电影_动作电影,http://cfss.cc/cdn/hy/11602077.flv
