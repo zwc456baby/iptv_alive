@@ -355,7 +355,7 @@ https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 tvg-name=CCTV1 tvg-logo=https://live.fanmingming.com/tv/CCTV1.png group-title=央视频道,CCTV1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name=CCTV2 tvg-logo=https://live.fanmingming.com/tv/CCTV2.png group-title=央视频道,CCTV2
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
 #EXTINF:-1 tvg-name=CCTV3 tvg-logo=https://live.fanmingming.com/tv/CCTV3.png group-title=央视频道,CCTV3
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-name=CCTV4 tvg-logo=https://live.fanmingming.com/tv/CCTV4.png group-title=央视频道,CCTV4
@@ -391,7 +391,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-name=CGTN tvg-logo=https://live.fanmingming.com/tv/CGTN.png group-title=央视频道,CGTN
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
 #EXTINF:-1 tvg-name=CGTN纪录 tvg-logo=https://live.fanmingming.com/tv/CGTN纪录.png group-title=央视频道,CGTN纪录
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
 #EXTINF:-1 tvg-name=北京卫视 tvg-logo=https://live.fanmingming.com/tv/北京卫视.png group-title=卫视频道,北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-name=东方卫视 tvg-logo=https://live.fanmingming.com/tv/东方卫视.png group-title=卫视频道,东方卫视
@@ -465,15 +465,13 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name=亚洲卫视 tvg-logo=https://live.fanmingming.com/tv/亚洲卫视.png group-title=卫视频道,亚洲卫视
 http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 #EXTINF:-1 tvg-name=凤凰中文 tvg-logo=https://live.fanmingming.com/tv/凤凰中文.png group-title=港澳台,凤凰中文
-ttp://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://eastscreen.tv/ooooo.php?id=fhws
-#EXTINF:-1 tvg-name=凤凰资讯 tvg-logo=https://live.fanmingming.com/tv/凤凰资讯.png group-title=港澳台,凤凰资讯
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc48.m3u8#http://eastscreen.tv/ooooo.php?id=fhzx
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name=凤凰香港 tvg-logo=https://live.fanmingming.com/tv/凤凰香港.png group-title=港澳台,凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name=面包台 tvg-logo=https://live.fanmingming.com/tv/面包台.png group-title=港澳台,面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
-#EXTINF:-1 tvg-name=J2，http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2 tvg-logo=https://live.fanmingming.com/tv/J2，http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2.png group-title=港澳台,J2，http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-undefined
+#EXTINF:-1 tvg-name=J2 tvg-logo=https://live.fanmingming.com/tv/J2.png group-title=港澳台,J2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-name=澳门Macau tvg-logo=https://live.fanmingming.com/tv/澳门Macau.png group-title=港澳台,澳门Macau
 http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 #EXTINF:-1 tvg-name=澳视澳门 tvg-logo=https://live.fanmingming.com/tv/澳视澳门.png group-title=港澳台,澳视澳门
@@ -1489,8 +1487,6 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-name=半·新闻 tvg-logo=https://live.fanmingming.com/tv/半·新闻.png group-title=世界,半·新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 tvg-name=法·24台 tvg-logo=https://live.fanmingming.com/tv/法·24台.png group-title=世界,法·24台
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name=法·时尚 tvg-logo=https://live.fanmingming.com/tv/法·时尚.png group-title=世界,法·时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 tvg-name=春晚83 tvg-logo=https://live.fanmingming.com/tv/春晚83.png group-title=历年春晚,春晚83
