@@ -122,7 +122,6 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 卫视,#genre#
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 轮播,#genre#
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
@@ -280,6 +279,8 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 鹿鼎记,http://live.iill.top/yy.php?id=28265277
 三国演义,http://live.iill.top/yy.php?id=1354930932
 少年包青天,http://live.iill.top/yy.php?id=38498680
+神雕侠侣,http://live.iill.top/yy.php?id=1351762426
+神医喜来乐,http://live.iill.top/yy.php?id=1382714119
 神探狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3395113
 天龙八部,http://live.iill.top/yy.php?id=1351814644
 天道,http://live.iill.top/yy.php?id=1382735574

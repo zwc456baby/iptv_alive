@@ -234,8 +234,6 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-name=CGTN阿语 tvg-logo=https://live.fanmingming.com/tv/CGTN阿语.png group-title=CCTV,CGTN阿语
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-name=香港卫视 tvg-logo=https://live.fanmingming.com/tv/香港卫视.png group-title=卫视,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name=山西卫视 tvg-logo=https://live.fanmingming.com/tv/山西卫视.png group-title=卫视,山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name=电影_星爷 tvg-logo=https://live.fanmingming.com/tv/电影_星爷.png group-title=轮播,电影_星爷
@@ -534,6 +532,10 @@ http://live.iill.top/yy.php?id=28265277
 http://live.iill.top/yy.php?id=1354930932
 #EXTINF:-1 tvg-name=少年包青天 tvg-logo=https://live.fanmingming.com/tv/少年包青天.png group-title=电视剧,少年包青天
 http://live.iill.top/yy.php?id=38498680
+#EXTINF:-1 tvg-name=神雕侠侣 tvg-logo=https://live.fanmingming.com/tv/神雕侠侣.png group-title=电视剧,神雕侠侣
+http://live.iill.top/yy.php?id=1351762426
+#EXTINF:-1 tvg-name=神医喜来乐 tvg-logo=https://live.fanmingming.com/tv/神医喜来乐.png group-title=电视剧,神医喜来乐
+http://live.iill.top/yy.php?id=1382714119
 #EXTINF:-1 tvg-name=神探狄仁杰 tvg-logo=https://live.fanmingming.com/tv/神探狄仁杰.png group-title=电视剧,神探狄仁杰
 http://maomao.kandiantv.cn/douyu1.php?id=3395113
 #EXTINF:-1 tvg-name=天龙八部 tvg-logo=https://live.fanmingming.com/tv/天龙八部.png group-title=电视剧,天龙八部
