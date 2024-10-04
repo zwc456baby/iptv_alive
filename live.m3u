@@ -234,6 +234,8 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-name=CGTN阿语 tvg-logo=https://live.fanmingming.com/tv/CGTN阿语.png group-title=CCTV,CGTN阿语
 https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-name=香港卫视 tvg-logo=https://live.fanmingming.com/tv/香港卫视.png group-title=卫视,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name=山西卫视 tvg-logo=https://live.fanmingming.com/tv/山西卫视.png group-title=卫视,山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name=电影_星爷 tvg-logo=https://live.fanmingming.com/tv/电影_星爷.png group-title=轮播,电影_星爷
@@ -1184,8 +1186,6 @@ http://4eae7f.tv.netsite.cc/proxy/923062896/923062896.m3u8
 http://4eae7f.tv.netsite.cc/proxy/1077381778/1077381778.m3u8
 #EXTINF:-1 tvg-name=重庆巫山长江大桥 tvg-logo=https://live.fanmingming.com/tv/重庆巫山长江大桥.png group-title=直播中国,重庆巫山长江大桥
 http://4eae7f.tv.netsite.cc/proxy/1215290450/1215290450.m3u8
-#EXTINF:-1 tvg-name=华语电影1 tvg-logo=https://live.fanmingming.com/tv/华语电影1.png group-title=斗鱼电影,华语电影1
-http://allinone.netsite.cc/douyu/122402
 #EXTINF:-1 tvg-name=粤语电影 tvg-logo=https://live.fanmingming.com/tv/粤语电影.png group-title=斗鱼电影,粤语电影
 http://allinone.netsite.cc/douyu/6566671
 #EXTINF:-1 tvg-name=国内惊悚 tvg-logo=https://live.fanmingming.com/tv/国内惊悚.png group-title=斗鱼电影,国内惊悚

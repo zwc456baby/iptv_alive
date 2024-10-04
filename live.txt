@@ -122,6 +122,7 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 卫视,#genre#
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 轮播,#genre#
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
@@ -612,7 +613,6 @@ CCTV16,http://4eae7f.tv.netsite.cc/proxy/1213181202/1213181202.m3u8
 重庆李子坝站,http://4eae7f.tv.netsite.cc/proxy/1077381778/1077381778.m3u8
 重庆巫山长江大桥,http://4eae7f.tv.netsite.cc/proxy/1215290450/1215290450.m3u8
 斗鱼电影,#genre#
-华语电影1,http://allinone.netsite.cc/douyu/122402
 粤语电影,http://allinone.netsite.cc/douyu/6566671
 国内惊悚,http://allinone.netsite.cc/douyu/218859
 国外惊悚,http://allinone.netsite.cc/douyu/96577
