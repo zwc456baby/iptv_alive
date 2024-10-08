@@ -292,7 +292,6 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 新白娘子传奇,http://live.iill.top/yy.php?id=1354930969
 寻秦记,http://live.iill.top/yy.php?id=1382851591
 倚天屠龙记,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
-宰相刘罗锅,http://live.iill.top/yy.php?id=1382745191
 知否知否应是绿肥红瘦,http://live.iill.top/yy.php?id=21881901
 
 未来电视,#genre#
