@@ -48,7 +48,6 @@ CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLT
 CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
@@ -230,6 +229,7 @@ CGTN纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888
 江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江西卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 福建东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
 云南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
 贵州卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226474/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
@@ -272,15 +272,18 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 电视剧,#genre#
-封神榜,https://lunbo.freetv.top/yy/1353426319
+读心神探,https://lunbo.freetv.top/yy/1382736875
+花千骨,https://lunbo.freetv.top/yy/1354943110
+红楼梦,https://lunbo.freetv.top/yy/1382745084
 回家的诱惑,https://lunbo.freetv.top/yy/1354658048
 好先生,http://maomao.kandiantv.cn/douyu1.php?id=9650792
+康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
 鹿鼎记,https://lunbo.freetv.top/yy/28265277
 三国演义,https://lunbo.freetv.top/yy/1354930932
+少年包青天,https://lunbo.freetv.top/yy/38498680
 神雕侠侣,https://lunbo.freetv.top/yy/1351762426
 神医喜来乐,https://lunbo.freetv.top/yy/1382714119
 神探狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3395113
-天道,https://lunbo.freetv.top/yy/1382735574
 太子妃升职记,https://lunbo.freetv.top/yy/1354932359
 小欢喜,https://lunbo.freetv.top/yy/1382737888
 仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
@@ -289,7 +292,6 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 寻秦记,https://lunbo.freetv.top/yy/1382851591
 倚天屠龙记,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
 宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
-知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/21881901
 
 未来电视,#genre#
 NewTV爱情喜剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
@@ -322,6 +324,10 @@ NewTV中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/
 黑莓电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+
+卡通动画,#genre#
+火影忍者,https://hw.flv.huya.com/src/1394565189-1394565189-5989611878895058944-2789253834-10057-A-0-1.flv
+海绵宝宝,https://hw.flv.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.flv
 CCTV-Live,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -342,7 +348,6 @@ CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV16,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV4,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV8,https://tv.cry33.com/ys4k.php?id=8k
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
