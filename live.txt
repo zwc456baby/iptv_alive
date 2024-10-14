@@ -274,20 +274,24 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 电视剧,#genre#
 读心神探,https://lunbo.freetv.top/yy/1382736875
 封神榜,https://lunbo.freetv.top/yy/1353426319
-红楼梦,https://lunbo.freetv.top/yy/1382745084
+花千骨,https://lunbo.freetv.top/yy/1354943110
 回家的诱惑,https://lunbo.freetv.top/yy/1354658048
 好先生,http://maomao.kandiantv.cn/douyu1.php?id=9650792
 康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
-鹿鼎记,https://lunbo.freetv.top/yy/28265277
+狂飙,https://lunbo.freetv.top/yy/1355142167
+三国演义,https://lunbo.freetv.top/yy/1354930932
+少年包青天,https://lunbo.freetv.top/yy/38498680
+神雕侠侣,https://lunbo.freetv.top/yy/1351762426
 神医喜来乐,https://lunbo.freetv.top/yy/1382714119
 天龙八部,https://lunbo.freetv.top/yy/1351814644
-天道,https://lunbo.freetv.top/yy/1382735574
+太子妃升职记,https://lunbo.freetv.top/yy/1354932359
 小欢喜,https://lunbo.freetv.top/yy/1382737888
 仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
 笑傲江湖,https://lunbo.freetv.top/yy/1354930909
 新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
-寻秦记,https://lunbo.freetv.top/yy/1382851591
 倚天屠龙记,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
+宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
+知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/21881901
 
 未来电视,#genre#
 NewTV爱情喜剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
@@ -606,7 +610,6 @@ CCTV16,http://4eae7f.tv.netsite.cc/proxy/1213181202/1213181202.m3u8
 重庆李子坝站,http://4eae7f.tv.netsite.cc/proxy/1077381778/1077381778.m3u8
 重庆巫山长江大桥,http://4eae7f.tv.netsite.cc/proxy/1215290450/1215290450.m3u8
 斗鱼电影,#genre#
-粤语电影,http://allinone.netsite.cc/douyu/6566671
 国内惊悚,http://allinone.netsite.cc/douyu/218859
 国外惊悚,http://allinone.netsite.cc/douyu/96577
 斗鱼电影1,http://allinone.netsite.cc/douyu/747764
