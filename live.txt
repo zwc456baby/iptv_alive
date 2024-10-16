@@ -18,6 +18,7 @@
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
 余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
@@ -48,6 +49,7 @@ CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLT
 CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
@@ -224,7 +226,6 @@ CGTN纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888
 深圳卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 广西卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 海南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-三沙卫视,http://123.13.245.238:4000/rtp/225.1.4.234:1280$河南联通
 安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
@@ -282,9 +283,10 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 好先生,http://maomao.kandiantv.cn/douyu1.php?id=9650792
 康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
 狂飙,https://lunbo.freetv.top/yy/1355142167
-鹿鼎记,https://lunbo.freetv.top/yy/28265277
+三国演义,https://lunbo.freetv.top/yy/1354930932
 少年包青天,https://lunbo.freetv.top/yy/38498680
 神雕侠侣,https://lunbo.freetv.top/yy/1351762426
+神医喜来乐,https://lunbo.freetv.top/yy/1382714119
 天龙八部,https://lunbo.freetv.top/yy/1351814644
 天道,https://lunbo.freetv.top/yy/1382735574
 太子妃升职记,https://lunbo.freetv.top/yy/1354932359
@@ -294,6 +296,7 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
 寻秦记,https://lunbo.freetv.top/yy/1382851591
 倚天屠龙记,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
+宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
 知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/21881901
 
 未来电视,#genre#
