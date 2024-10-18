@@ -274,20 +274,23 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 电视剧,#genre#
-读心神探,https://lunbo.freetv.top/yy/1382736875
+封神榜,https://lunbo.freetv.top/yy/1353426319
 花千骨,https://lunbo.freetv.top/yy/1354943110
 红楼梦,https://lunbo.freetv.top/yy/1382745084
+回家的诱惑,https://lunbo.freetv.top/yy/1354658048
 好先生,http://maomao.kandiantv.cn/douyu1.php?id=9650792
+康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
+狂飙,https://lunbo.freetv.top/yy/1355142167
 鹿鼎记,https://lunbo.freetv.top/yy/28265277
 三国演义,https://lunbo.freetv.top/yy/1354930932
-神医喜来乐,https://lunbo.freetv.top/yy/1382714119
-天龙八部,https://lunbo.freetv.top/yy/1351814644
+少年包青天,https://lunbo.freetv.top/yy/38498680
+神雕侠侣,https://lunbo.freetv.top/yy/1351762426
 天道,https://lunbo.freetv.top/yy/1382735574
 太子妃升职记,https://lunbo.freetv.top/yy/1354932359
 小欢喜,https://lunbo.freetv.top/yy/1382737888
-仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
 笑傲江湖,https://lunbo.freetv.top/yy/1354930909
 新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
+寻秦记,https://lunbo.freetv.top/yy/1382851591
 倚天屠龙记,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
 
 未来电视,#genre#
