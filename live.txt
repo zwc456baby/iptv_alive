@@ -204,22 +204,6 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CGTN,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
 CGTN纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
-CCTV兵器科技,http://xuys.top:8888/udp/225.1.2.166:5002$天津联通 组播
-CCTV第一剧场,http://xuys.top:8888/udp/225.1.2.175:5002$天津联通 组播
-CCTV电视指南,http://xuys.top:8888/udp/225.1.2.167:5002$天津联通 组播
-CCTV发现之旅,http://xuys.top:8888/udp/225.1.1.183:5002$天津联通 组播
-CCTV风云剧场,http://xuys.top:8888/udp/225.1.2.174:5002$天津联通 组播
-CCTV风云音乐,http://xuys.top:8888/udp/225.1.2.176:5002$天津联通 组播
-CCTV风云足球,http://xuys.top:8888/udp/225.1.2.168:5002$天津联通 组播
-CCTV高尔夫网球,http://xuys.top:8888/udp/225.1.2.169:5002$天津联通 组播
-CCTV怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002$天津联通 组播
-CCTV女性时尚,http://xuys.top:8888/udp/225.1.2.172:5002$天津联通 组播
-CCTV世界地理,http://xuys.top:8888/udp/225.1.2.171:5002$天津联通 组播
-CCTV央视台球,http://xuys.top:8888/udp/225.1.2.170:5002$天津联通 组播
-CCTV央视文化精品,http://xuys.top:8888/udp/225.1.2.177:5002$天津联通 组播
-CCTV央视文化精品,http://xuys.top:8888/udp/225.1.1.27:5002$天津联通 组播
-CCTV老故事,http://xuys.top:8888/udp/225.1.1.188:5002$天津联通 组播
-CCTV中学生,http://xuys.top:8888/udp/225.1.1.193:5002$天津联通 组播
 
 卫视频道,#genre#
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -300,19 +284,25 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 中天亚洲台,https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8
 
 电视剧,#genre#
+读心神探,https://lunbo.freetv.top/yy/1382736875
+封神榜,https://lunbo.freetv.top/yy/1353426319
 花千骨,https://lunbo.freetv.top/yy/1354943110
+红楼梦,https://lunbo.freetv.top/yy/1382745084
+回家的诱惑,https://lunbo.freetv.top/yy/1354658048
 好先生,http://maomao.kandiantv.cn/douyu1.php?id=9650792
 康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
-三国演义,https://lunbo.freetv.top/yy/1354930932
+狂飙,https://lunbo.freetv.top/yy/1355142167
+鹿鼎记,https://lunbo.freetv.top/yy/28265277
 神雕侠侣,https://lunbo.freetv.top/yy/1351762426
+神医喜来乐,https://lunbo.freetv.top/yy/1382714119
 神探狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3395113
 天龙八部,https://lunbo.freetv.top/yy/1351814644
 天道,https://lunbo.freetv.top/yy/1382735574
+太子妃升职记,https://lunbo.freetv.top/yy/1354932359
+仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
 笑傲江湖,https://lunbo.freetv.top/yy/1354930909
-新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
 寻秦记,https://lunbo.freetv.top/yy/1382851591
 倚天屠龙记,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
-宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
 知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/21881901
 
 数字电视,#genre#
@@ -837,10 +827,6 @@ SiTV,#genre#
 BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 CCTV8K-50FPS,http://159.75.85.63:8654/xx8k50fps.php
 CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
-虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
-虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
-斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
-斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
 世界,#genre#
 有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
