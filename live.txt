@@ -18,7 +18,6 @@
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
 余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
@@ -35,10 +34,12 @@ CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV
 CCTV-3 综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-5 体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
 CCTV-6 电影,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-7 国防军事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-8 电视剧,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-9 纪录,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10 科教,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
 CCTV-11 戏曲,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
@@ -200,6 +201,19 @@ CCTV15,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000512
 CCTV16,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000715
 CCTV17,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000513
 CCTV5+,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000021
+CCTV兵器科技,http://www.jiaocj.xyz:4000/udp/239.49.8.88:8000
+CCTV电视指南,http://www.jiaocj.xyz:4000/udp/239.49.8.84:8000
+CCTV第一剧场,http://106.116.2.167:8890/rtp/239.254.201.218:7258
+CCTV风云剧场,http://www.jiaocj.xyz:4000/udp/239.49.8.89:8000
+CCTV风云音乐,http://www.jiaocj.xyz:4000/udp/239.49.8.92:8000
+CCTV风云足球,http://www.jiaocj.xyz:4000/udp/239.49.8.85:8000
+CCTV高尔夫网球,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/index.m3u8?
+CCTV怀旧剧场,http://www.jiaocj.xyz:4000/udp/239.49.8.91:8000
+CCTV女性时尚,http://www.jiaocj.xyz:4000/udp/239.49.8.93:8000
+CCTV世界地理,http://www.jiaocj.xyz:4000/udp/239.49.8.85:8000
+CCTV卫生健康
+CCTV央视文化精品,http://www.jiaocj.xyz:4000/udp/239.49.8.90:8000
+CCTV央视台球,http://www.jiaocj.xyz:4000/udp/239.49.8.32:8000
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CGTN,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
 CGTN纪录,http://[2409:8087:1a0a:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
@@ -225,12 +239,14 @@ CGTN纪录,http://[2409:8087:1a0a:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888
 深圳卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000318
 广西卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000456
 海南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000103
+三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000$江苏电信
 安徽卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000121
 浙江卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000134
 江苏卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000646
 江西卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000716
 福建东南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000550
 厦门卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000058/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000753
+海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
 云南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000035/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000373
 贵州卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000344
 四川卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000396
@@ -240,19 +256,24 @@ CGTN纪录,http://[2409:8087:1a0a:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888
 宁夏卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000995
 青海卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000042/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000546
 新疆卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 西藏卫视,http://[2409:8087:1a0a:df::4039]/wh7f454c46tw2710545171_1093384597/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8?icpid=88888888&RTS=1713110546&from=4&hms_devid=1212&online=1713110546&vqe=3
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0•IPV4『线路6』
 
 港澳台,#genre#
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-TVB星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 明珠台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-娱乐新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 美亚电影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
@@ -281,25 +302,15 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 中天亚洲台,https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8
 
 电视剧,#genre#
-读心神探,https://lunbo.freetv.top/yy/1382736875
 封神榜,https://lunbo.freetv.top/yy/1353426319
 花千骨,https://lunbo.freetv.top/yy/1354943110
-红楼梦,https://lunbo.freetv.top/yy/1382745084
 好先生,http://maomao.kandiantv.cn/douyu1.php?id=9650792
 康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
 狂飙,https://lunbo.freetv.top/yy/1355142167
 鹿鼎记,https://lunbo.freetv.top/yy/28265277
 三国演义,https://lunbo.freetv.top/yy/1354930932
-少年包青天,https://lunbo.freetv.top/yy/38498680
-神雕侠侣,https://lunbo.freetv.top/yy/1351762426
-神医喜来乐,https://lunbo.freetv.top/yy/1382714119
-天龙八部,https://lunbo.freetv.top/yy/1351814644
-天道,https://lunbo.freetv.top/yy/1382735574
 太子妃升职记,https://lunbo.freetv.top/yy/1354932359
 小欢喜,https://lunbo.freetv.top/yy/1382737888
-仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
-笑傲江湖,https://lunbo.freetv.top/yy/1354930909
-寻秦记,https://lunbo.freetv.top/yy/1382851591
 倚天屠龙记,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
 宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
 知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/21881901
@@ -313,7 +324,7 @@ NewTV超级体育,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2798497282_117025
 NewTV潮妈辣婆,http://[2409:8087:1a0a:df::402a]:80/wh7f454c46tw1933284823_1929264018/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 NewTV东北热剧,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV动作电影,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-NewTV哒啵电竞
+NewTV哒啵电竞,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000121/index.m3u8?
 NewTV哒啵赛事,http://[2409:8087:74d9:21::6]:80/270000001128/9900000097/index.m3u8
 NewTV古装剧场,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 NewTV欢乐剧场,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
@@ -325,6 +336,7 @@ NewTV精品大剧,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLT
 NewTV精品纪录,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000349
 NewTV精品萌宠,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 NewTV精品体育,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000102
+NewTV精品综合,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000116/index.m3u8?
 NewTV军旅剧场,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000107
 NewTV军事评论,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw1692016868_-1516333284/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 NewTV明星大片,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
@@ -342,6 +354,7 @@ NewTV中国功夫,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-12335
 欢笑剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.m3u8
 纪实人文,http://[2409:8087:1a0a:df::4016]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 金色学堂
+乐游,http://nas.color-cc.com:4000/udp/239.49.8.44:8036
 睛彩广场舞,http://[2409:8087:1a0a:df::402e]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 睛彩篮球,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000405
 睛彩竞技,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000074
@@ -366,6 +379,7 @@ CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV16,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV4,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV8,https://tv.cry33.com/ys4k.php?id=8k
@@ -634,7 +648,6 @@ CCTV16,http://4eae7f.tv.netsite.cc/proxy/1213181202/1213181202.m3u8
 重庆李子坝站,http://4eae7f.tv.netsite.cc/proxy/1077381778/1077381778.m3u8
 重庆巫山长江大桥,http://4eae7f.tv.netsite.cc/proxy/1215290450/1215290450.m3u8
 斗鱼电影,#genre#
-国内惊悚,http://allinone.netsite.cc/douyu/218859
 国外惊悚,http://allinone.netsite.cc/douyu/96577
 斗鱼电影1,http://allinone.netsite.cc/douyu/747764
 斗鱼电影2,http://allinone.netsite.cc/douyu/6140589
