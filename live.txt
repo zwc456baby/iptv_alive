@@ -45,7 +45,6 @@ CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.c
 CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV-14 少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
@@ -79,7 +78,6 @@ CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-大湾区卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
@@ -116,7 +114,6 @@ CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 CCTV,#genre#
-CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -212,7 +209,7 @@ CGTN纪录,http://[2409:8087:1a0a:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 明珠台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
@@ -250,20 +247,23 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 电视剧,#genre#
 读心神探,https://lunbo.freetv.top/yy/1382736875
 封神榜,https://lunbo.freetv.top/yy/1353426319
+花千骨,https://lunbo.freetv.top/yy/1354943110
 红楼梦,https://lunbo.freetv.top/yy/1382745084
 回家的诱惑,https://lunbo.freetv.top/yy/1354658048
 好先生,http://maomao.kandiantv.cn/douyu1.php?id=9650792
 康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
 狂飙,https://lunbo.freetv.top/yy/1355142167
+鹿鼎记,https://lunbo.freetv.top/yy/28265277
 三国演义,https://lunbo.freetv.top/yy/1354930932
 少年包青天,https://lunbo.freetv.top/yy/38498680
-射雕英雄传,https://lunbo.freetv.top/yy/1354210357
-神雕侠侣,https://lunbo.freetv.top/yy/1351762426
 神医喜来乐,https://lunbo.freetv.top/yy/1382714119
 神探狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3395113
+天龙八部,https://lunbo.freetv.top/yy/1351814644
 天道,https://lunbo.freetv.top/yy/1382735574
-太子妃升职记,https://lunbo.freetv.top/yy/1354932359
+小欢喜,https://lunbo.freetv.top/yy/1382737888
+仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
 笑傲江湖,https://lunbo.freetv.top/yy/1354930909
+新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
 寻秦记,https://lunbo.freetv.top/yy/1382851591
 倚天屠龙记,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
 宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
@@ -319,8 +319,10 @@ NewTV中国功夫,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-12335
 CCTV-Live,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV3,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
 CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
