@@ -82,6 +82,8 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name=CCTV15 tvg-logo=https://live.fanmingming.com/tv/CCTV15.png group-title=IPV6,CCTV-15 音乐
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 tvg-name=CCTV16 tvg-logo=https://live.fanmingming.com/tv/CCTV16.png group-title=IPV6,CCTV-16 奥林匹克
+http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-name=CCTV17 tvg-logo=https://live.fanmingming.com/tv/CCTV17.png group-title=IPV6,CCTV-17 农业农村
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name=CCTV4 tvg-logo=https://live.fanmingming.com/tv/CCTV4.png group-title=IPV6,CCTV-4K 超高清
@@ -148,6 +150,8 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-name=延边卫视 tvg-logo=https://live.fanmingming.com/tv/延边卫视.png group-title=IPV6,延边卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+#EXTINF:-1 tvg-name=大湾区卫视 tvg-logo=https://live.fanmingming.com/tv/大湾区卫视.png group-title=IPV6,大湾区卫视
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 #EXTINF:-1 tvg-name=安多卫视 tvg-logo=https://live.fanmingming.com/tv/安多卫视.png group-title=IPV6,安多卫视
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-name=康巴卫视 tvg-logo=https://live.fanmingming.com/tv/康巴卫视.png group-title=IPV6,康巴卫视
@@ -434,16 +438,12 @@ http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 https://aktv.top/AKTV/live/aktv/null6/AKTV.m3u8
 #EXTINF:-1 tvg-name=民视 tvg-logo=https://live.fanmingming.com/tv/民视.png group-title=港澳台,民视
 rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 tvg-name=民视新闻台 tvg-logo=https://live.fanmingming.com/tv/民视新闻台.png group-title=港澳台,民视新闻台
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-name=三立戏剧台 tvg-logo=https://live.fanmingming.com/tv/三立戏剧台.png group-title=港澳台,三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name=三立综合台 tvg-logo=https://live.fanmingming.com/tv/三立综合台.png group-title=港澳台,三立综合台
 https://aktv.top/AKTV/live/aktv/null13/AKTV.m3u8
 #EXTINF:-1 tvg-name=台视 tvg-logo=https://live.fanmingming.com/tv/台视.png group-title=港澳台,台视
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-name=台视新闻 tvg-logo=https://live.fanmingming.com/tv/台视新闻.png group-title=港澳台,台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name=纬来精采 tvg-logo=https://live.fanmingming.com/tv/纬来精采.png group-title=港澳台,纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name=纬来日本 tvg-logo=https://live.fanmingming.com/tv/纬来日本.png group-title=港澳台,纬来日本
@@ -462,18 +462,18 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8
 #EXTINF:-1 tvg-name=读心神探 tvg-logo=https://live.fanmingming.com/tv/读心神探.png group-title=电视剧,读心神探
 https://lunbo.freetv.top/yy/1382736875
-#EXTINF:-1 tvg-name=花千骨 tvg-logo=https://live.fanmingming.com/tv/花千骨.png group-title=电视剧,花千骨
-https://lunbo.freetv.top/yy/1354943110
+#EXTINF:-1 tvg-name=封神榜 tvg-logo=https://live.fanmingming.com/tv/封神榜.png group-title=电视剧,封神榜
+https://lunbo.freetv.top/yy/1353426319
 #EXTINF:-1 tvg-name=红楼梦 tvg-logo=https://live.fanmingming.com/tv/红楼梦.png group-title=电视剧,红楼梦
 https://lunbo.freetv.top/yy/1382745084
 #EXTINF:-1 tvg-name=回家的诱惑 tvg-logo=https://live.fanmingming.com/tv/回家的诱惑.png group-title=电视剧,回家的诱惑
 https://lunbo.freetv.top/yy/1354658048
 #EXTINF:-1 tvg-name=好先生 tvg-logo=https://live.fanmingming.com/tv/好先生.png group-title=电视剧,好先生
 http://maomao.kandiantv.cn/douyu1.php?id=9650792
-#EXTINF:-1 tvg-name=康熙微服私访记 tvg-logo=https://live.fanmingming.com/tv/康熙微服私访记.png group-title=电视剧,康熙微服私访记
-https://lunbo.freetv.top/yy/1352811698
 #EXTINF:-1 tvg-name=狂飙 tvg-logo=https://live.fanmingming.com/tv/狂飙.png group-title=电视剧,狂飙
 https://lunbo.freetv.top/yy/1355142167
+#EXTINF:-1 tvg-name=鹿鼎记 tvg-logo=https://live.fanmingming.com/tv/鹿鼎记.png group-title=电视剧,鹿鼎记
+https://lunbo.freetv.top/yy/28265277
 #EXTINF:-1 tvg-name=三国演义 tvg-logo=https://live.fanmingming.com/tv/三国演义.png group-title=电视剧,三国演义
 https://lunbo.freetv.top/yy/1354930932
 #EXTINF:-1 tvg-name=少年包青天 tvg-logo=https://live.fanmingming.com/tv/少年包青天.png group-title=电视剧,少年包青天
@@ -486,18 +486,20 @@ https://lunbo.freetv.top/yy/1351762426
 https://lunbo.freetv.top/yy/1382714119
 #EXTINF:-1 tvg-name=神探狄仁杰 tvg-logo=https://live.fanmingming.com/tv/神探狄仁杰.png group-title=电视剧,神探狄仁杰
 http://maomao.kandiantv.cn/douyu1.php?id=3395113
+#EXTINF:-1 tvg-name=知否知否应是绿肥红瘦 tvg-logo=https://live.fanmingming.com/tv/知否知否应是绿肥红瘦.png group-title=电视剧,知否知否应是绿肥红瘦
+https://lunbo.freetv.top/yy/21881901
 #EXTINF:-1 tvg-name=天龙八部 tvg-logo=https://live.fanmingming.com/tv/天龙八部.png group-title=电视剧,天龙八部
 https://lunbo.freetv.top/yy/1351814644
 #EXTINF:-1 tvg-name=天道 tvg-logo=https://live.fanmingming.com/tv/天道.png group-title=电视剧,天道
 https://lunbo.freetv.top/yy/1382735574
 #EXTINF:-1 tvg-name=太子妃升职记 tvg-logo=https://live.fanmingming.com/tv/太子妃升职记.png group-title=电视剧,太子妃升职记
 https://lunbo.freetv.top/yy/1354932359
+#EXTINF:-1 tvg-name=小欢喜 tvg-logo=https://live.fanmingming.com/tv/小欢喜.png group-title=电视剧,小欢喜
+https://lunbo.freetv.top/yy/1382737888
 #EXTINF:-1 tvg-name=仙剑奇侠传 tvg-logo=https://live.fanmingming.com/tv/仙剑奇侠传.png group-title=电视剧,仙剑奇侠传
 https://lunbo.freetv.top/yy/1382749903
-#EXTINF:-1 tvg-name=新白娘子传奇 tvg-logo=https://live.fanmingming.com/tv/新白娘子传奇.png group-title=电视剧,新白娘子传奇
-https://lunbo.freetv.top/yy/1354930969
-#EXTINF:-1 tvg-name=寻秦记 tvg-logo=https://live.fanmingming.com/tv/寻秦记.png group-title=电视剧,寻秦记
-https://lunbo.freetv.top/yy/1382851591
+#EXTINF:-1 tvg-name=笑傲江湖 tvg-logo=https://live.fanmingming.com/tv/笑傲江湖.png group-title=电视剧,笑傲江湖
+https://lunbo.freetv.top/yy/1354930909
 #EXTINF:-1 tvg-name=宰相刘罗锅 tvg-logo=https://live.fanmingming.com/tv/宰相刘罗锅.png group-title=电视剧,宰相刘罗锅
 https://lunbo.freetv.top/yy/1382745191
 #EXTINF:-1 tvg-name=CHC动作电影 tvg-logo=https://live.fanmingming.com/tv/CHC动作电影.png group-title=数字电视,CHC动作电影
@@ -592,12 +594,12 @@ https://live.shanghaieye.cn/live/24h.m3u8?auth_key=1733402541-0-0-cbc55712428582
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name=CCTV2 tvg-logo=https://live.fanmingming.com/tv/CCTV2.png group-title=CCTV-Live,CCTV2
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 tvg-name=CCTV3 tvg-logo=https://live.fanmingming.com/tv/CCTV3.png group-title=CCTV-Live,CCTV3
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-name=CCTV4 tvg-logo=https://live.fanmingming.com/tv/CCTV4.png group-title=CCTV-Live,CCTV4
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-name=CCTV5 tvg-logo=https://live.fanmingming.com/tv/CCTV5.png group-title=CCTV-Live,CCTV5
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-name=CCTV5 tvg-logo=https://live.fanmingming.com/tv/CCTV5.png group-title=CCTV-Live,CCTV5
+http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-name=CCTV6 tvg-logo=https://live.fanmingming.com/tv/CCTV6.png group-title=CCTV-Live,CCTV6
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-name=CCTV7 tvg-logo=https://live.fanmingming.com/tv/CCTV7.png group-title=CCTV-Live,CCTV7
@@ -1020,132 +1022,6 @@ http://4eae7f.tv.netsite.cc/proxy/1052067340/1052067340.m3u8
 http://4eae7f.tv.netsite.cc/proxy/1259661680/1259661680.m3u8
 #EXTINF:-1 tvg-name=四川观察 tvg-logo=https://live.fanmingming.com/tv/四川观察.png group-title=地方台,四川观察
 http://4eae7f.tv.netsite.cc/proxy/2061240764/2061240764.m3u8
-#EXTINF:-1 tvg-name=北京国际雕塑公园 tvg-logo=https://live.fanmingming.com/tv/北京国际雕塑公园.png group-title=直播中国,北京国际雕塑公园
-http://4eae7f.tv.netsite.cc/proxy/1070308851/1070308851.m3u8
-#EXTINF:-1 tvg-name=北京密云司马台长城 tvg-logo=https://live.fanmingming.com/tv/北京密云司马台长城.png group-title=直播中国,北京密云司马台长城
-http://4eae7f.tv.netsite.cc/proxy/771753543/771753543.m3u8
-#EXTINF:-1 tvg-name=北京昌平居庸关长城 tvg-logo=https://live.fanmingming.com/tv/北京昌平居庸关长城.png group-title=直播中国,北京昌平居庸关长城
-http://4eae7f.tv.netsite.cc/proxy/1214950026/1214950026.m3u8
-#EXTINF:-1 tvg-name=北京鸟巢和水立方 tvg-logo=https://live.fanmingming.com/tv/北京鸟巢和水立方.png group-title=直播中国,北京鸟巢和水立方
-http://4eae7f.tv.netsite.cc/proxy/2139720500/2139720500.m3u8
-#EXTINF:-1 tvg-name=北京密云古北水镇 tvg-logo=https://live.fanmingming.com/tv/北京密云古北水镇.png group-title=直播中国,北京密云古北水镇
-http://4eae7f.tv.netsite.cc/proxy/698677872/698677872.m3u8
-#EXTINF:-1 tvg-name=北京怀柔黄花城水长城 tvg-logo=https://live.fanmingming.com/tv/北京怀柔黄花城水长城.png group-title=直播中国,北京怀柔黄花城水长城
-http://4eae7f.tv.netsite.cc/proxy/1266694830/1266694830.m3u8
-#EXTINF:-1 tvg-name=湖南张家界武陵源景区 tvg-logo=https://live.fanmingming.com/tv/湖南张家界武陵源景区.png group-title=直播中国,湖南张家界武陵源景区
-http://4eae7f.tv.netsite.cc/proxy/762554012/762554012.m3u8
-#EXTINF:-1 tvg-name=湖南长沙果园镇田汉文化园 tvg-logo=https://live.fanmingming.com/tv/湖南长沙果园镇田汉文化园.png group-title=直播中国,湖南长沙果园镇田汉文化园
-http://4eae7f.tv.netsite.cc/proxy/1933462135/1933462135.m3u8
-#EXTINF:-1 tvg-name=湖南张家界天门山景区 tvg-logo=https://live.fanmingming.com/tv/湖南张家界天门山景区.png group-title=直播中国,湖南张家界天门山景区
-http://4eae7f.tv.netsite.cc/proxy/1114678886/1114678886.m3u8
-#EXTINF:-1 tvg-name=湖南湘西凤凰古城 tvg-logo=https://live.fanmingming.com/tv/湖南湘西凤凰古城.png group-title=直播中国,湖南湘西凤凰古城
-http://4eae7f.tv.netsite.cc/proxy/1244287653/1244287653.m3u8
-#EXTINF:-1 tvg-name=湖南张家界大峡谷景区 tvg-logo=https://live.fanmingming.com/tv/湖南张家界大峡谷景区.png group-title=直播中国,湖南张家界大峡谷景区
-http://4eae7f.tv.netsite.cc/proxy/848407143/848407143.m3u8
-#EXTINF:-1 tvg-name=湖南邵阳崀山风景名胜区 tvg-logo=https://live.fanmingming.com/tv/湖南邵阳崀山风景名胜区.png group-title=直播中国,湖南邵阳崀山风景名胜区
-http://4eae7f.tv.netsite.cc/proxy/2086847518/2086847518.m3u8
-#EXTINF:-1 tvg-name=湖南沙洲瑶族村 tvg-logo=https://live.fanmingming.com/tv/湖南沙洲瑶族村.png group-title=直播中国,湖南沙洲瑶族村
-http://4eae7f.tv.netsite.cc/proxy/1641373861/1641373861.m3u8
-#EXTINF:-1 tvg-name=江苏南京永宁张圩花海 tvg-logo=https://live.fanmingming.com/tv/江苏南京永宁张圩花海.png group-title=直播中国,江苏南京永宁张圩花海
-http://4eae7f.tv.netsite.cc/proxy/25264739/25264739.m3u8
-#EXTINF:-1 tvg-name=江苏徐州之夜 tvg-logo=https://live.fanmingming.com/tv/江苏徐州之夜.png group-title=直播中国,江苏徐州之夜
-http://4eae7f.tv.netsite.cc/proxy/391073776/391073776.m3u8
-#EXTINF:-1 tvg-name=江苏无锡惠山二茅峰望锡城 tvg-logo=https://live.fanmingming.com/tv/江苏无锡惠山二茅峰望锡城.png group-title=直播中国,江苏无锡惠山二茅峰望锡城
-http://4eae7f.tv.netsite.cc/proxy/1877891602/1877891602.m3u8
-#EXTINF:-1 tvg-name=江苏南京长江大桥 tvg-logo=https://live.fanmingming.com/tv/江苏南京长江大桥.png group-title=直播中国,江苏南京长江大桥
-http://4eae7f.tv.netsite.cc/proxy/1764141811/1764141811.m3u8
-#EXTINF:-1 tvg-name=江苏南京玄武湖 tvg-logo=https://live.fanmingming.com/tv/江苏南京玄武湖.png group-title=直播中国,江苏南京玄武湖
-http://4eae7f.tv.netsite.cc/proxy/1985889373/1985889373.m3u8
-#EXTINF:-1 tvg-name=南京南站 tvg-logo=https://live.fanmingming.com/tv/南京南站.png group-title=直播中国,南京南站
-http://4eae7f.tv.netsite.cc/proxy/2072143452/2072143452.m3u8
-#EXTINF:-1 tvg-name=南京紫金山 tvg-logo=https://live.fanmingming.com/tv/南京紫金山.png group-title=直播中国,南京紫金山
-http://4eae7f.tv.netsite.cc/proxy/177566095/177566095.m3u8
-#EXTINF:-1 tvg-name=南京情侣园 tvg-logo=https://live.fanmingming.com/tv/南京情侣园.png group-title=直播中国,南京情侣园
-http://4eae7f.tv.netsite.cc/proxy/185079179/185079179.m3u8
-#EXTINF:-1 tvg-name=南京长江大桥 tvg-logo=https://live.fanmingming.com/tv/南京长江大桥.png group-title=直播中国,南京长江大桥
-http://4eae7f.tv.netsite.cc/proxy/1033254824/1033254824.m3u8
-#EXTINF:-1 tvg-name=南京栖霞山 tvg-logo=https://live.fanmingming.com/tv/南京栖霞山.png group-title=直播中国,南京栖霞山
-http://4eae7f.tv.netsite.cc/proxy/182710545/182710545.m3u8
-#EXTINF:-1 tvg-name=南京鼓楼广场 tvg-logo=https://live.fanmingming.com/tv/南京鼓楼广场.png group-title=直播中国,南京鼓楼广场
-http://4eae7f.tv.netsite.cc/proxy/960879458/960879458.m3u8
-#EXTINF:-1 tvg-name=南京新街口 tvg-logo=https://live.fanmingming.com/tv/南京新街口.png group-title=直播中国,南京新街口
-http://4eae7f.tv.netsite.cc/proxy/183420062/183420062.m3u8
-#EXTINF:-1 tvg-name=南京紫峰眺望 tvg-logo=https://live.fanmingming.com/tv/南京紫峰眺望.png group-title=直播中国,南京紫峰眺望
-http://4eae7f.tv.netsite.cc/proxy/1222351744/1222351744.m3u8
-#EXTINF:-1 tvg-name=南京白鹭洲公园 tvg-logo=https://live.fanmingming.com/tv/南京白鹭洲公园.png group-title=直播中国,南京白鹭洲公园
-http://4eae7f.tv.netsite.cc/proxy/320590871/320590871.m3u8
-#EXTINF:-1 tvg-name=南京北极阁 tvg-logo=https://live.fanmingming.com/tv/南京北极阁.png group-title=直播中国,南京北极阁
-http://4eae7f.tv.netsite.cc/proxy/188239043/188239043.m3u8
-#EXTINF:-1 tvg-name=南京三汊河 tvg-logo=https://live.fanmingming.com/tv/南京三汊河.png group-title=直播中国,南京三汊河
-http://4eae7f.tv.netsite.cc/proxy/189455176/189455176.m3u8
-#EXTINF:-1 tvg-name=南京矿坑公园 tvg-logo=https://live.fanmingming.com/tv/南京矿坑公园.png group-title=直播中国,南京矿坑公园
-http://4eae7f.tv.netsite.cc/proxy/1263482067/1263482067.m3u8
-#EXTINF:-1 tvg-name=南京百家湖 tvg-logo=https://live.fanmingming.com/tv/南京百家湖.png group-title=直播中国,南京百家湖
-http://4eae7f.tv.netsite.cc/proxy/179633244/179633244.m3u8
-#EXTINF:-1 tvg-name=南京眼 tvg-logo=https://live.fanmingming.com/tv/南京眼.png group-title=直播中国,南京眼
-http://4eae7f.tv.netsite.cc/proxy/1734263806/1734263806.m3u8
-#EXTINF:-1 tvg-name=南京五马渡 tvg-logo=https://live.fanmingming.com/tv/南京五马渡.png group-title=直播中国,南京五马渡
-http://4eae7f.tv.netsite.cc/proxy/188955121/188955121.m3u8
-#EXTINF:-1 tvg-name=浙江台州三门核电站 tvg-logo=https://live.fanmingming.com/tv/浙江台州三门核电站.png group-title=直播中国,浙江台州三门核电站
-http://4eae7f.tv.netsite.cc/proxy/1382819378/1382819378.m3u8
-#EXTINF:-1 tvg-name=浙江舟山嵊泗县中心渔港 tvg-logo=https://live.fanmingming.com/tv/浙江舟山嵊泗县中心渔港.png group-title=直播中国,浙江舟山嵊泗县中心渔港
-http://4eae7f.tv.netsite.cc/proxy/748822183/748822183.m3u8
-#EXTINF:-1 tvg-name=浙江温州泰顺县廊桥文化园 tvg-logo=https://live.fanmingming.com/tv/浙江温州泰顺县廊桥文化园.png group-title=直播中国,浙江温州泰顺县廊桥文化园
-http://4eae7f.tv.netsite.cc/proxy/1144314894/1144314894.m3u8
-#EXTINF:-1 tvg-name=浙江舟山东极岛 tvg-logo=https://live.fanmingming.com/tv/浙江舟山东极岛.png group-title=直播中国,浙江舟山东极岛
-http://4eae7f.tv.netsite.cc/proxy/1973269961/1973269961.m3u8
-#EXTINF:-1 tvg-name=浙江杭州千岛湖 tvg-logo=https://live.fanmingming.com/tv/浙江杭州千岛湖.png group-title=直播中国,浙江杭州千岛湖
-http://4eae7f.tv.netsite.cc/proxy/1683811739/1683811739.m3u8
-#EXTINF:-1 tvg-name=浙江嘉兴乌镇 tvg-logo=https://live.fanmingming.com/tv/浙江嘉兴乌镇.png group-title=直播中国,浙江嘉兴乌镇
-http://4eae7f.tv.netsite.cc/proxy/463129046/463129046.m3u8
-#EXTINF:-1 tvg-name=安徽黄山黟县 tvg-logo=https://live.fanmingming.com/tv/安徽黄山黟县.png group-title=直播中国,安徽黄山黟县
-http://4eae7f.tv.netsite.cc/proxy/1759244982/1759244982.m3u8
-#EXTINF:-1 tvg-name=上海南浦大桥 tvg-logo=https://live.fanmingming.com/tv/上海南浦大桥.png group-title=直播中国,上海南浦大桥
-http://4eae7f.tv.netsite.cc/proxy/1514561649/1514561649.m3u8
-#EXTINF:-1 tvg-name=西藏林芝米林岷山彩门民宿 tvg-logo=https://live.fanmingming.com/tv/西藏林芝米林岷山彩门民宿.png group-title=直播中国,西藏林芝米林岷山彩门民宿
-http://4eae7f.tv.netsite.cc/proxy/751076408/751076408.m3u8
-#EXTINF:-1 tvg-name=西藏林芝岷山错高民宿 tvg-logo=https://live.fanmingming.com/tv/西藏林芝岷山错高民宿.png group-title=直播中国,西藏林芝岷山错高民宿
-http://4eae7f.tv.netsite.cc/proxy/680426319/680426319.m3u8
-#EXTINF:-1 tvg-name=西藏日喀则珠穆朗玛峰 tvg-logo=https://live.fanmingming.com/tv/西藏日喀则珠穆朗玛峰.png group-title=直播中国,西藏日喀则珠穆朗玛峰
-http://4eae7f.tv.netsite.cc/proxy/209923082/209923082.m3u8
-#EXTINF:-1 tvg-name=西藏拉萨布达拉宫 tvg-logo=https://live.fanmingming.com/tv/西藏拉萨布达拉宫.png group-title=直播中国,西藏拉萨布达拉宫
-http://4eae7f.tv.netsite.cc/proxy/800329695/800329695.m3u8
-#EXTINF:-1 tvg-name=西藏林芝墨脱县 tvg-logo=https://live.fanmingming.com/tv/西藏林芝墨脱县.png group-title=直播中国,西藏林芝墨脱县
-http://4eae7f.tv.netsite.cc/proxy/476608588/476608588.m3u8
-#EXTINF:-1 tvg-name=新疆喀什达瓦昆景区 tvg-logo=https://live.fanmingming.com/tv/新疆喀什达瓦昆景区.png group-title=直播中国,新疆喀什达瓦昆景区
-http://4eae7f.tv.netsite.cc/proxy/404107611/404107611.m3u8
-#EXTINF:-1 tvg-name=新疆伊犁州蝶湖公园 tvg-logo=https://live.fanmingming.com/tv/新疆伊犁州蝶湖公园.png group-title=直播中国,新疆伊犁州蝶湖公园
-http://4eae7f.tv.netsite.cc/proxy/132379804/132379804.m3u8
-#EXTINF:-1 tvg-name=新疆昌吉州天山天池风景区 tvg-logo=https://live.fanmingming.com/tv/新疆昌吉州天山天池风景区.png group-title=直播中国,新疆昌吉州天山天池风景区
-http://4eae7f.tv.netsite.cc/proxy/1482666116/1482666116.m3u8
-#EXTINF:-1 tvg-name=安徽黄山风景区 tvg-logo=https://live.fanmingming.com/tv/安徽黄山风景区.png group-title=直播中国,安徽黄山风景区
-http://4eae7f.tv.netsite.cc/proxy/2125074276/2125074276.m3u8
-#EXTINF:-1 tvg-name=四川邛崃天台山 tvg-logo=https://live.fanmingming.com/tv/四川邛崃天台山.png group-title=直播中国,四川邛崃天台山
-http://4eae7f.tv.netsite.cc/proxy/690671060/690671060.m3u8
-#EXTINF:-1 tvg-name=四川甘孜州石渠县 tvg-logo=https://live.fanmingming.com/tv/四川甘孜州石渠县.png group-title=直播中国,四川甘孜州石渠县
-http://4eae7f.tv.netsite.cc/proxy/682530961/682530961.m3u8
-#EXTINF:-1 tvg-name=四川西昌市邛海景区 tvg-logo=https://live.fanmingming.com/tv/四川西昌市邛海景区.png group-title=直播中国,四川西昌市邛海景区
-http://4eae7f.tv.netsite.cc/proxy/239112006/239112006.m3u8
-#EXTINF:-1 tvg-name=四川成都东安湖体育公园 tvg-logo=https://live.fanmingming.com/tv/四川成都东安湖体育公园.png group-title=直播中国,四川成都东安湖体育公园
-http://4eae7f.tv.netsite.cc/proxy/648790008/648790008.m3u8
-#EXTINF:-1 tvg-name=四川成都安顺廊桥 tvg-logo=https://live.fanmingming.com/tv/四川成都安顺廊桥.png group-title=直播中国,四川成都安顺廊桥
-http://4eae7f.tv.netsite.cc/proxy/1937762418/1937762418.m3u8
-#EXTINF:-1 tvg-name=四川成都天府熊猫塔 tvg-logo=https://live.fanmingming.com/tv/四川成都天府熊猫塔.png group-title=直播中国,四川成都天府熊猫塔
-http://4eae7f.tv.netsite.cc/proxy/1936214178/1936214178.m3u8
-#EXTINF:-1 tvg-name=四川成都春熙路 tvg-logo=https://live.fanmingming.com/tv/四川成都春熙路.png group-title=直播中国,四川成都春熙路
-http://4eae7f.tv.netsite.cc/proxy/614090729/614090729.m3u8
-#EXTINF:-1 tvg-name=四川阿坝州汶川映秀新城 tvg-logo=https://live.fanmingming.com/tv/四川阿坝州汶川映秀新城.png group-title=直播中国,四川阿坝州汶川映秀新城
-http://4eae7f.tv.netsite.cc/proxy/369813965/369813965.m3u8
-#EXTINF:-1 tvg-name=四川阿坝州黄龙五彩池 tvg-logo=https://live.fanmingming.com/tv/四川阿坝州黄龙五彩池.png group-title=直播中国,四川阿坝州黄龙五彩池
-http://4eae7f.tv.netsite.cc/proxy/411064268/411064268.m3u8
-#EXTINF:-1 tvg-name=四川乐山市峨眉山风景区 tvg-logo=https://live.fanmingming.com/tv/四川乐山市峨眉山风景区.png group-title=直播中国,四川乐山市峨眉山风景区
-http://4eae7f.tv.netsite.cc/proxy/1575586364/1575586364.m3u8
-#EXTINF:-1 tvg-name=重庆巫山长江画卷 tvg-logo=https://live.fanmingming.com/tv/重庆巫山长江画卷.png group-title=直播中国,重庆巫山长江画卷
-http://4eae7f.tv.netsite.cc/proxy/923062896/923062896.m3u8
-#EXTINF:-1 tvg-name=重庆李子坝站 tvg-logo=https://live.fanmingming.com/tv/重庆李子坝站.png group-title=直播中国,重庆李子坝站
-http://4eae7f.tv.netsite.cc/proxy/1077381778/1077381778.m3u8
-#EXTINF:-1 tvg-name=重庆巫山长江大桥 tvg-logo=https://live.fanmingming.com/tv/重庆巫山长江大桥.png group-title=直播中国,重庆巫山长江大桥
-http://4eae7f.tv.netsite.cc/proxy/1215290450/1215290450.m3u8
 #EXTINF:-1 tvg-name=国外惊悚 tvg-logo=https://live.fanmingming.com/tv/国外惊悚.png group-title=斗鱼电影,国外惊悚
 http://allinone.netsite.cc/douyu/96577
 #EXTINF:-1 tvg-name=斗鱼电影2 tvg-logo=https://live.fanmingming.com/tv/斗鱼电影2.png group-title=斗鱼电影,斗鱼电影2
@@ -1338,6 +1214,132 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-name=游戏风云 tvg-logo=https://live.fanmingming.com/tv/游戏风云.png group-title=数字电视,游戏风云
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name=北京国际雕塑公园 tvg-logo=https://live.fanmingming.com/tv/北京国际雕塑公园.png group-title=直播中国,北京国际雕塑公园
+http://4eae7f.tv.netsite.cc/proxy/1070308851/1070308851.m3u8
+#EXTINF:-1 tvg-name=北京密云司马台长城 tvg-logo=https://live.fanmingming.com/tv/北京密云司马台长城.png group-title=直播中国,北京密云司马台长城
+http://4eae7f.tv.netsite.cc/proxy/771753543/771753543.m3u8
+#EXTINF:-1 tvg-name=北京昌平居庸关长城 tvg-logo=https://live.fanmingming.com/tv/北京昌平居庸关长城.png group-title=直播中国,北京昌平居庸关长城
+http://4eae7f.tv.netsite.cc/proxy/1214950026/1214950026.m3u8
+#EXTINF:-1 tvg-name=北京鸟巢和水立方 tvg-logo=https://live.fanmingming.com/tv/北京鸟巢和水立方.png group-title=直播中国,北京鸟巢和水立方
+http://4eae7f.tv.netsite.cc/proxy/2139720500/2139720500.m3u8
+#EXTINF:-1 tvg-name=北京密云古北水镇 tvg-logo=https://live.fanmingming.com/tv/北京密云古北水镇.png group-title=直播中国,北京密云古北水镇
+http://4eae7f.tv.netsite.cc/proxy/698677872/698677872.m3u8
+#EXTINF:-1 tvg-name=北京怀柔黄花城水长城 tvg-logo=https://live.fanmingming.com/tv/北京怀柔黄花城水长城.png group-title=直播中国,北京怀柔黄花城水长城
+http://4eae7f.tv.netsite.cc/proxy/1266694830/1266694830.m3u8
+#EXTINF:-1 tvg-name=湖南张家界武陵源景区 tvg-logo=https://live.fanmingming.com/tv/湖南张家界武陵源景区.png group-title=直播中国,湖南张家界武陵源景区
+http://4eae7f.tv.netsite.cc/proxy/762554012/762554012.m3u8
+#EXTINF:-1 tvg-name=湖南长沙果园镇田汉文化园 tvg-logo=https://live.fanmingming.com/tv/湖南长沙果园镇田汉文化园.png group-title=直播中国,湖南长沙果园镇田汉文化园
+http://4eae7f.tv.netsite.cc/proxy/1933462135/1933462135.m3u8
+#EXTINF:-1 tvg-name=湖南张家界天门山景区 tvg-logo=https://live.fanmingming.com/tv/湖南张家界天门山景区.png group-title=直播中国,湖南张家界天门山景区
+http://4eae7f.tv.netsite.cc/proxy/1114678886/1114678886.m3u8
+#EXTINF:-1 tvg-name=湖南湘西凤凰古城 tvg-logo=https://live.fanmingming.com/tv/湖南湘西凤凰古城.png group-title=直播中国,湖南湘西凤凰古城
+http://4eae7f.tv.netsite.cc/proxy/1244287653/1244287653.m3u8
+#EXTINF:-1 tvg-name=湖南张家界大峡谷景区 tvg-logo=https://live.fanmingming.com/tv/湖南张家界大峡谷景区.png group-title=直播中国,湖南张家界大峡谷景区
+http://4eae7f.tv.netsite.cc/proxy/848407143/848407143.m3u8
+#EXTINF:-1 tvg-name=湖南邵阳崀山风景名胜区 tvg-logo=https://live.fanmingming.com/tv/湖南邵阳崀山风景名胜区.png group-title=直播中国,湖南邵阳崀山风景名胜区
+http://4eae7f.tv.netsite.cc/proxy/2086847518/2086847518.m3u8
+#EXTINF:-1 tvg-name=湖南沙洲瑶族村 tvg-logo=https://live.fanmingming.com/tv/湖南沙洲瑶族村.png group-title=直播中国,湖南沙洲瑶族村
+http://4eae7f.tv.netsite.cc/proxy/1641373861/1641373861.m3u8
+#EXTINF:-1 tvg-name=江苏南京永宁张圩花海 tvg-logo=https://live.fanmingming.com/tv/江苏南京永宁张圩花海.png group-title=直播中国,江苏南京永宁张圩花海
+http://4eae7f.tv.netsite.cc/proxy/25264739/25264739.m3u8
+#EXTINF:-1 tvg-name=江苏徐州之夜 tvg-logo=https://live.fanmingming.com/tv/江苏徐州之夜.png group-title=直播中国,江苏徐州之夜
+http://4eae7f.tv.netsite.cc/proxy/391073776/391073776.m3u8
+#EXTINF:-1 tvg-name=江苏无锡惠山二茅峰望锡城 tvg-logo=https://live.fanmingming.com/tv/江苏无锡惠山二茅峰望锡城.png group-title=直播中国,江苏无锡惠山二茅峰望锡城
+http://4eae7f.tv.netsite.cc/proxy/1877891602/1877891602.m3u8
+#EXTINF:-1 tvg-name=江苏南京长江大桥 tvg-logo=https://live.fanmingming.com/tv/江苏南京长江大桥.png group-title=直播中国,江苏南京长江大桥
+http://4eae7f.tv.netsite.cc/proxy/1764141811/1764141811.m3u8
+#EXTINF:-1 tvg-name=江苏南京玄武湖 tvg-logo=https://live.fanmingming.com/tv/江苏南京玄武湖.png group-title=直播中国,江苏南京玄武湖
+http://4eae7f.tv.netsite.cc/proxy/1985889373/1985889373.m3u8
+#EXTINF:-1 tvg-name=南京南站 tvg-logo=https://live.fanmingming.com/tv/南京南站.png group-title=直播中国,南京南站
+http://4eae7f.tv.netsite.cc/proxy/2072143452/2072143452.m3u8
+#EXTINF:-1 tvg-name=南京紫金山 tvg-logo=https://live.fanmingming.com/tv/南京紫金山.png group-title=直播中国,南京紫金山
+http://4eae7f.tv.netsite.cc/proxy/177566095/177566095.m3u8
+#EXTINF:-1 tvg-name=南京情侣园 tvg-logo=https://live.fanmingming.com/tv/南京情侣园.png group-title=直播中国,南京情侣园
+http://4eae7f.tv.netsite.cc/proxy/185079179/185079179.m3u8
+#EXTINF:-1 tvg-name=南京长江大桥 tvg-logo=https://live.fanmingming.com/tv/南京长江大桥.png group-title=直播中国,南京长江大桥
+http://4eae7f.tv.netsite.cc/proxy/1033254824/1033254824.m3u8
+#EXTINF:-1 tvg-name=南京栖霞山 tvg-logo=https://live.fanmingming.com/tv/南京栖霞山.png group-title=直播中国,南京栖霞山
+http://4eae7f.tv.netsite.cc/proxy/182710545/182710545.m3u8
+#EXTINF:-1 tvg-name=南京鼓楼广场 tvg-logo=https://live.fanmingming.com/tv/南京鼓楼广场.png group-title=直播中国,南京鼓楼广场
+http://4eae7f.tv.netsite.cc/proxy/960879458/960879458.m3u8
+#EXTINF:-1 tvg-name=南京新街口 tvg-logo=https://live.fanmingming.com/tv/南京新街口.png group-title=直播中国,南京新街口
+http://4eae7f.tv.netsite.cc/proxy/183420062/183420062.m3u8
+#EXTINF:-1 tvg-name=南京紫峰眺望 tvg-logo=https://live.fanmingming.com/tv/南京紫峰眺望.png group-title=直播中国,南京紫峰眺望
+http://4eae7f.tv.netsite.cc/proxy/1222351744/1222351744.m3u8
+#EXTINF:-1 tvg-name=南京白鹭洲公园 tvg-logo=https://live.fanmingming.com/tv/南京白鹭洲公园.png group-title=直播中国,南京白鹭洲公园
+http://4eae7f.tv.netsite.cc/proxy/320590871/320590871.m3u8
+#EXTINF:-1 tvg-name=南京北极阁 tvg-logo=https://live.fanmingming.com/tv/南京北极阁.png group-title=直播中国,南京北极阁
+http://4eae7f.tv.netsite.cc/proxy/188239043/188239043.m3u8
+#EXTINF:-1 tvg-name=南京三汊河 tvg-logo=https://live.fanmingming.com/tv/南京三汊河.png group-title=直播中国,南京三汊河
+http://4eae7f.tv.netsite.cc/proxy/189455176/189455176.m3u8
+#EXTINF:-1 tvg-name=南京矿坑公园 tvg-logo=https://live.fanmingming.com/tv/南京矿坑公园.png group-title=直播中国,南京矿坑公园
+http://4eae7f.tv.netsite.cc/proxy/1263482067/1263482067.m3u8
+#EXTINF:-1 tvg-name=南京百家湖 tvg-logo=https://live.fanmingming.com/tv/南京百家湖.png group-title=直播中国,南京百家湖
+http://4eae7f.tv.netsite.cc/proxy/179633244/179633244.m3u8
+#EXTINF:-1 tvg-name=南京眼 tvg-logo=https://live.fanmingming.com/tv/南京眼.png group-title=直播中国,南京眼
+http://4eae7f.tv.netsite.cc/proxy/1734263806/1734263806.m3u8
+#EXTINF:-1 tvg-name=南京五马渡 tvg-logo=https://live.fanmingming.com/tv/南京五马渡.png group-title=直播中国,南京五马渡
+http://4eae7f.tv.netsite.cc/proxy/188955121/188955121.m3u8
+#EXTINF:-1 tvg-name=浙江台州三门核电站 tvg-logo=https://live.fanmingming.com/tv/浙江台州三门核电站.png group-title=直播中国,浙江台州三门核电站
+http://4eae7f.tv.netsite.cc/proxy/1382819378/1382819378.m3u8
+#EXTINF:-1 tvg-name=浙江舟山嵊泗县中心渔港 tvg-logo=https://live.fanmingming.com/tv/浙江舟山嵊泗县中心渔港.png group-title=直播中国,浙江舟山嵊泗县中心渔港
+http://4eae7f.tv.netsite.cc/proxy/748822183/748822183.m3u8
+#EXTINF:-1 tvg-name=浙江温州泰顺县廊桥文化园 tvg-logo=https://live.fanmingming.com/tv/浙江温州泰顺县廊桥文化园.png group-title=直播中国,浙江温州泰顺县廊桥文化园
+http://4eae7f.tv.netsite.cc/proxy/1144314894/1144314894.m3u8
+#EXTINF:-1 tvg-name=浙江舟山东极岛 tvg-logo=https://live.fanmingming.com/tv/浙江舟山东极岛.png group-title=直播中国,浙江舟山东极岛
+http://4eae7f.tv.netsite.cc/proxy/1973269961/1973269961.m3u8
+#EXTINF:-1 tvg-name=浙江杭州千岛湖 tvg-logo=https://live.fanmingming.com/tv/浙江杭州千岛湖.png group-title=直播中国,浙江杭州千岛湖
+http://4eae7f.tv.netsite.cc/proxy/1683811739/1683811739.m3u8
+#EXTINF:-1 tvg-name=浙江嘉兴乌镇 tvg-logo=https://live.fanmingming.com/tv/浙江嘉兴乌镇.png group-title=直播中国,浙江嘉兴乌镇
+http://4eae7f.tv.netsite.cc/proxy/463129046/463129046.m3u8
+#EXTINF:-1 tvg-name=安徽黄山黟县 tvg-logo=https://live.fanmingming.com/tv/安徽黄山黟县.png group-title=直播中国,安徽黄山黟县
+http://4eae7f.tv.netsite.cc/proxy/1759244982/1759244982.m3u8
+#EXTINF:-1 tvg-name=上海南浦大桥 tvg-logo=https://live.fanmingming.com/tv/上海南浦大桥.png group-title=直播中国,上海南浦大桥
+http://4eae7f.tv.netsite.cc/proxy/1514561649/1514561649.m3u8
+#EXTINF:-1 tvg-name=西藏林芝米林岷山彩门民宿 tvg-logo=https://live.fanmingming.com/tv/西藏林芝米林岷山彩门民宿.png group-title=直播中国,西藏林芝米林岷山彩门民宿
+http://4eae7f.tv.netsite.cc/proxy/751076408/751076408.m3u8
+#EXTINF:-1 tvg-name=西藏林芝岷山错高民宿 tvg-logo=https://live.fanmingming.com/tv/西藏林芝岷山错高民宿.png group-title=直播中国,西藏林芝岷山错高民宿
+http://4eae7f.tv.netsite.cc/proxy/680426319/680426319.m3u8
+#EXTINF:-1 tvg-name=西藏日喀则珠穆朗玛峰 tvg-logo=https://live.fanmingming.com/tv/西藏日喀则珠穆朗玛峰.png group-title=直播中国,西藏日喀则珠穆朗玛峰
+http://4eae7f.tv.netsite.cc/proxy/209923082/209923082.m3u8
+#EXTINF:-1 tvg-name=西藏拉萨布达拉宫 tvg-logo=https://live.fanmingming.com/tv/西藏拉萨布达拉宫.png group-title=直播中国,西藏拉萨布达拉宫
+http://4eae7f.tv.netsite.cc/proxy/800329695/800329695.m3u8
+#EXTINF:-1 tvg-name=西藏林芝墨脱县 tvg-logo=https://live.fanmingming.com/tv/西藏林芝墨脱县.png group-title=直播中国,西藏林芝墨脱县
+http://4eae7f.tv.netsite.cc/proxy/476608588/476608588.m3u8
+#EXTINF:-1 tvg-name=新疆喀什达瓦昆景区 tvg-logo=https://live.fanmingming.com/tv/新疆喀什达瓦昆景区.png group-title=直播中国,新疆喀什达瓦昆景区
+http://4eae7f.tv.netsite.cc/proxy/404107611/404107611.m3u8
+#EXTINF:-1 tvg-name=新疆伊犁州蝶湖公园 tvg-logo=https://live.fanmingming.com/tv/新疆伊犁州蝶湖公园.png group-title=直播中国,新疆伊犁州蝶湖公园
+http://4eae7f.tv.netsite.cc/proxy/132379804/132379804.m3u8
+#EXTINF:-1 tvg-name=新疆昌吉州天山天池风景区 tvg-logo=https://live.fanmingming.com/tv/新疆昌吉州天山天池风景区.png group-title=直播中国,新疆昌吉州天山天池风景区
+http://4eae7f.tv.netsite.cc/proxy/1482666116/1482666116.m3u8
+#EXTINF:-1 tvg-name=安徽黄山风景区 tvg-logo=https://live.fanmingming.com/tv/安徽黄山风景区.png group-title=直播中国,安徽黄山风景区
+http://4eae7f.tv.netsite.cc/proxy/2125074276/2125074276.m3u8
+#EXTINF:-1 tvg-name=四川邛崃天台山 tvg-logo=https://live.fanmingming.com/tv/四川邛崃天台山.png group-title=直播中国,四川邛崃天台山
+http://4eae7f.tv.netsite.cc/proxy/690671060/690671060.m3u8
+#EXTINF:-1 tvg-name=四川甘孜州石渠县 tvg-logo=https://live.fanmingming.com/tv/四川甘孜州石渠县.png group-title=直播中国,四川甘孜州石渠县
+http://4eae7f.tv.netsite.cc/proxy/682530961/682530961.m3u8
+#EXTINF:-1 tvg-name=四川西昌市邛海景区 tvg-logo=https://live.fanmingming.com/tv/四川西昌市邛海景区.png group-title=直播中国,四川西昌市邛海景区
+http://4eae7f.tv.netsite.cc/proxy/239112006/239112006.m3u8
+#EXTINF:-1 tvg-name=四川成都东安湖体育公园 tvg-logo=https://live.fanmingming.com/tv/四川成都东安湖体育公园.png group-title=直播中国,四川成都东安湖体育公园
+http://4eae7f.tv.netsite.cc/proxy/648790008/648790008.m3u8
+#EXTINF:-1 tvg-name=四川成都安顺廊桥 tvg-logo=https://live.fanmingming.com/tv/四川成都安顺廊桥.png group-title=直播中国,四川成都安顺廊桥
+http://4eae7f.tv.netsite.cc/proxy/1937762418/1937762418.m3u8
+#EXTINF:-1 tvg-name=四川成都天府熊猫塔 tvg-logo=https://live.fanmingming.com/tv/四川成都天府熊猫塔.png group-title=直播中国,四川成都天府熊猫塔
+http://4eae7f.tv.netsite.cc/proxy/1936214178/1936214178.m3u8
+#EXTINF:-1 tvg-name=四川成都春熙路 tvg-logo=https://live.fanmingming.com/tv/四川成都春熙路.png group-title=直播中国,四川成都春熙路
+http://4eae7f.tv.netsite.cc/proxy/614090729/614090729.m3u8
+#EXTINF:-1 tvg-name=四川阿坝州汶川映秀新城 tvg-logo=https://live.fanmingming.com/tv/四川阿坝州汶川映秀新城.png group-title=直播中国,四川阿坝州汶川映秀新城
+http://4eae7f.tv.netsite.cc/proxy/369813965/369813965.m3u8
+#EXTINF:-1 tvg-name=四川阿坝州黄龙五彩池 tvg-logo=https://live.fanmingming.com/tv/四川阿坝州黄龙五彩池.png group-title=直播中国,四川阿坝州黄龙五彩池
+http://4eae7f.tv.netsite.cc/proxy/411064268/411064268.m3u8
+#EXTINF:-1 tvg-name=四川乐山市峨眉山风景区 tvg-logo=https://live.fanmingming.com/tv/四川乐山市峨眉山风景区.png group-title=直播中国,四川乐山市峨眉山风景区
+http://4eae7f.tv.netsite.cc/proxy/1575586364/1575586364.m3u8
+#EXTINF:-1 tvg-name=重庆巫山长江画卷 tvg-logo=https://live.fanmingming.com/tv/重庆巫山长江画卷.png group-title=直播中国,重庆巫山长江画卷
+http://4eae7f.tv.netsite.cc/proxy/923062896/923062896.m3u8
+#EXTINF:-1 tvg-name=重庆李子坝站 tvg-logo=https://live.fanmingming.com/tv/重庆李子坝站.png group-title=直播中国,重庆李子坝站
+http://4eae7f.tv.netsite.cc/proxy/1077381778/1077381778.m3u8
+#EXTINF:-1 tvg-name=重庆巫山长江大桥 tvg-logo=https://live.fanmingming.com/tv/重庆巫山长江大桥.png group-title=直播中国,重庆巫山长江大桥
+http://4eae7f.tv.netsite.cc/proxy/1215290450/1215290450.m3u8
 #EXTINF:-1 tvg-name=电影_星爷 tvg-logo=https://live.fanmingming.com/tv/电影_星爷.png group-title=轮播,电影_星爷
 http://cfss.cc/cdn/hy/11342412.flv
 #EXTINF:-1 tvg-name=电影_英叔 tvg-logo=https://live.fanmingming.com/tv/电影_英叔.png group-title=轮播,电影_英叔
