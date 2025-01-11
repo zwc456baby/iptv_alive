@@ -31,6 +31,7 @@
 IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-3 综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-5 体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
@@ -44,6 +45,7 @@ CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.c
 CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV-14 少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
@@ -122,7 +124,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 精品,#genre#
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-[session-4d44f1b3] Repository or file not found
+[session-e442a795] Repository or file not found
 # 链接已进行 qps 限流处理
 # 限制最高访问数以及请求次数
 # 仅限个人使用，不可分享，播放卡顿等问题均为限流导致
@@ -200,6 +202,7 @@ CGTN外语记录频道,http://a21709.tv.netsite.cc/proxy/634350026/634350026.m3u
 上海第一财经,http://a21709.tv.netsite.cc/proxy/1946402424/1946402424.m3u8
 上海纪实人文,http://a21709.tv.netsite.cc/proxy/1975883896/1975883896.m3u8
 上海都市频道,http://a21709.tv.netsite.cc/proxy/2116818558/2116818558.m3u8
+上海哈哈炫动,http://a21709.tv.netsite.cc/proxy/1655047572/1655047572.m3u8
 上海点掌财经,http://a21709.tv.netsite.cc/proxy/1577752441/1577752441.m3u8
 浙江卫视,http://a21709.tv.netsite.cc/proxy/2059640241/2059640241.m3u8
 浙江钱江都市,http://a21709.tv.netsite.cc/proxy/2044904392/2044904392.m3u8
@@ -338,3 +341,4 @@ CGTN外语记录频道,http://a21709.tv.netsite.cc/proxy/634350026/634350026.m3u
 亚洲中文,http://a21709.tv.netsite.cc/proxy/847703940/847703940.m3u8
 大立電視台,http://a21709.tv.netsite.cc/proxy/1485397580/1485397580.m3u8
 测试,#genre#
+CCTV-1,http://a21709.tv.netsite.cc/proxy/1464748337/1464748337.m3u8
