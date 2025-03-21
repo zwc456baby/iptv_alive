@@ -72,8 +72,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 tvg-name=CCTV9 tvg-logo=https://live.fanmingming.com/tv/CCTV9.png group-title=IPV6,CCTV-9 纪录
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-name=CCTV10 tvg-logo=https://live.fanmingming.com/tv/CCTV10.png group-title=IPV6,CCTV-10 科教
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-name=CCTV11 tvg-logo=https://live.fanmingming.com/tv/CCTV11.png group-title=IPV6,CCTV-11 戏曲
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 tvg-name=CCTV12 tvg-logo=https://live.fanmingming.com/tv/CCTV12.png group-title=IPV6,CCTV-12 社会与法
@@ -126,6 +124,8 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-name=河南卫视 tvg-logo=https://live.fanmingming.com/tv/河南卫视.png group-title=IPV6,河南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#EXTINF:-1 tvg-name=浙江卫视 tvg-logo=https://live.fanmingming.com/tv/浙江卫视.png group-title=IPV6,浙江卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 tvg-name=海南卫视 tvg-logo=https://live.fanmingming.com/tv/海南卫视.png group-title=IPV6,海南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name=湖北卫视 tvg-logo=https://live.fanmingming.com/tv/湖北卫视.png group-title=IPV6,湖北卫视
@@ -144,14 +144,14 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-name=纪实人文 tvg-logo=https://live.fanmingming.com/tv/纪实人文.png group-title=IPV6,纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name=纪实科教 tvg-logo=https://live.fanmingming.com/tv/纪实科教.png group-title=IPV6,纪实科教
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name=哒啵赛事 tvg-logo=https://live.fanmingming.com/tv/哒啵赛事.png group-title=IPV6,哒啵赛事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-name=超级体育 tvg-logo=https://live.fanmingming.com/tv/超级体育.png group-title=IPV6,超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-name=超级电影 tvg-logo=https://live.fanmingming.com/tv/超级电影.png group-title=IPV6,超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name=超级视剧 tvg-logo=https://live.fanmingming.com/tv/超级视剧.png group-title=IPV6,超级视剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-name=东北热剧 tvg-logo=https://live.fanmingming.com/tv/东北热剧.png group-title=IPV6,东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-name=欢乐剧场 tvg-logo=https://live.fanmingming.com/tv/欢乐剧场.png group-title=IPV6,欢乐剧场
@@ -178,7 +178,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name=足球频道 tvg-logo=https://live.fanmingming.com/tv/足球频道.png group-title=精品,足球频道
 https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1 tvg-name=[session-c0424f97]
+#EXTINF:-1 tvg-name=[session-0c4c319a]
 undefined
 #EXTINF:-1 tvg-name=#
 undefined
