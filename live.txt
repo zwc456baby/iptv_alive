@@ -95,4 +95,4 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 精品,#genre#
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-[session-dc4f11bd] Repository or file not found
+[session-2b44eab6] Repository or file not found
