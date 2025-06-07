@@ -96,13 +96,14 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 精品,#genre#
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-[session-a549878a] Repository or file not found
+[session-6c4141b6] Repository or file not found
 # 链接已进行 qps 限流处理
 # 限制最高访问数以及请求次数
 # 仅限个人使用，不可分享，播放卡顿等问题均为限流导致
 CCTV-Live,#genre#
 CCTV-4k,http://a21709.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
 CCTV-1,http://a21709.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
+CCTV-2,http://a21709.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
 CCTV-4,http://a21709.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
 CCTV-5,http://a21709.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
 CCTV-5+,http://a21709.tv.netsite.cc/proxy/485668034/485668034.m3u8
