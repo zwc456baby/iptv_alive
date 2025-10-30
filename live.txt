@@ -36,4 +36,5 @@ CCTV,#genre#
 卫视,#genre#
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 精品,#genre#
-[session-ac43cfab] Repository or file not found
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+[session-4a440fa1] Repository or file not found
