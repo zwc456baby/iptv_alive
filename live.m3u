@@ -22,8 +22,6 @@ http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-name=数码时代 tvg-logo=https://live.fanmingming.com/tv/数码时代.png group-title=小地方,数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name=武义新闻综合 tvg-logo=https://live.fanmingming.com/tv/武义新闻综合.png group-title=小地方,武义新闻综合
-http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name=平湖新闻综合 tvg-logo=https://live.fanmingming.com/tv/平湖新闻综合.png group-title=小地方,平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name=平湖民生休闲 tvg-logo=https://live.fanmingming.com/tv/平湖民生休闲.png group-title=小地方,平湖民生休闲
@@ -62,5 +60,5 @@ http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name=足球频道 tvg-logo=https://live.fanmingming.com/tv/足球频道.png group-title=精品,足球频道
 https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1 tvg-name=[session-d0477880]
+#EXTINF:-1 tvg-name=[session-55402198]
 undefined
