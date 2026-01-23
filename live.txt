@@ -1,6 +1,7 @@
 
 
 综合,#genre#
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 小地方,#genre#
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -31,4 +32,9 @@ IPV6,#genre#
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-[session-9d454ab5] Repository or file not found
+CCTV,#genre#
+卫视,#genre#
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+精品,#genre#
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+[session-c14f62a2] Repository or file not found

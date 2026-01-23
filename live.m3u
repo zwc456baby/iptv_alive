@@ -1,5 +1,7 @@
 
 #EXTM3U x-tvg-url=https://live.fanmingming.com/e.xml
+#EXTINF:-1 tvg-name=浙江卫视 tvg-logo=https://live.fanmingming.com/tv/浙江卫视.png group-title=综合,浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name=义乌新闻综合 tvg-logo=https://live.fanmingming.com/tv/义乌新闻综合.png group-title=小地方,义乌新闻综合
 https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 #EXTINF:-1 tvg-name=浙江钱江都市 tvg-logo=https://live.fanmingming.com/tv/浙江钱江都市.png group-title=小地方,浙江钱江都市
@@ -56,5 +58,9 @@ https://tv.cry33.com/ys4k.php?id=8k
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name=凤凰资讯 tvg-logo=https://live.fanmingming.com/tv/凤凰资讯.png group-title=IPV6,凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-name=[session-9d454ab5]
+#EXTINF:-1 tvg-name=山西卫视 tvg-logo=https://live.fanmingming.com/tv/山西卫视.png group-title=卫视,山西卫视
+http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-name=足球频道 tvg-logo=https://live.fanmingming.com/tv/足球频道.png group-title=精品,足球频道
+https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1 tvg-name=[session-c14f62a2]
 undefined
