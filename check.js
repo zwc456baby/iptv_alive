@@ -10,7 +10,7 @@ const CHECK_URL = [
 const PROXY_ENV =
   "http_proxy=http://127.0.0.1:7890 https_proxy=http://127.0.0.1:7890";
 const fetch = require("node-fetch");
-var exec = require("child_process").exec;
+const { spawn } = require("child_process");
 
 async function verifyurl(url) {
   try {
@@ -31,7 +31,7 @@ async function verifyurl(url) {
 }
 async function geturlcontent(url) {
   try {
-    var res = await execmd(PROXY_ENV + " " + 'curl -s -L "' + url + '"');
+    var res = await execmd("curl", ["-s", "-L", "--proxy", "http://127.0.0.1:7890", url]);
     if (res[0]) {
       return "";
     }
@@ -41,45 +41,37 @@ async function geturlcontent(url) {
     return "";
   }
 }
-async function execmd(cmd) {
-  // console.log(cmd);
-  var over = false;
-  var waitcall = null;
-  var _err,
-    _stdout,
-    _stderr = null;
-  exec(cmd, async function (err, stdout, stderr) {
-    _err = err;
-    _stdout = stdout;
-    _stderr = stderr;
-    if (!over) {
-      over = true;
-      if (waitcall) {
-        waitcall();
-        waitcall = null;
+async function execmd(cmd, args) {
+  return new Promise((resolve) => {
+    const child = spawn(cmd, args, { shell: false });
+    let stdout = "";
+    let stderr = "";
+    child.stdout.on("data", (data) => { stdout += data; });
+    child.stderr.on("data", (data) => { stderr += data; });
+    child.on("error", (err) => { resolve([err, stdout, stderr]); });
+    child.on("close", (code) => {
+      if (code !== 0) {
+        resolve([new Error(`Exit code ${code}`), stdout, stderr]);
+      } else {
+        resolve([null, stdout, stderr]);
       }
-    }
-  });
-  if (!over) {
-    await new Promise((r) => {
-      waitcall = r;
     });
-  }
-  return [_err, _stdout, _stderr];
+  });
 }
 async function pushgit() {
   console.log("exec over");
-  var gitstatu = await execmd("git add .");
+  var gitstatu = await execmd("git", ["add", "."]);
   if (gitstatu[0]) {
     console.log("git 提交出错：", gitstatu);
     return;
   }
-  var gitstatu = await execmd('git commit -m "' + "自动提交: $(date)" + '"');
+  var dateStr = new Date().toISOString();
+  var gitstatu = await execmd("git", ["commit", "-m", "自动提交: " + dateStr]);
   if (gitstatu[0]) {
     console.log("git 提交出错：", gitstatu);
     return;
   }
-  var gitstatu = await execmd("git push origin master");
+  var gitstatu = await execmd("git", ["push", "origin", "master"]);
   if (gitstatu[0]) {
     console.log("git 提交出错：", gitstatu);
     return;
@@ -144,8 +136,9 @@ async function checkallurl(data) {
 }
 async function loadexturl() {
   // const loadlist='https://raw.githubusercontent.com/qist/tvbox/master/list.txt'
-  await execmd('printf -- "' + '"' + " >live.txt");
-  await execmd('printf -- "' + '"' + " >live.m3u");
+  const fs = require("fs");
+  fs.writeFileSync("live.txt", "");
+  fs.writeFileSync("live.m3u", "");
 
   let ret = "";
   await CHECK_URL.reduce(async (memo, url) => {
