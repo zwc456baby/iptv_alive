@@ -44,6 +44,8 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name=诸暨新闻综合 tvg-logo=https://live.fanmingming.com/tv/诸暨新闻综合.png group-title=小地方,诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name=上虞新闻综合 tvg-logo=https://live.fanmingming.com/tv/上虞新闻综合.png group-title=小地方,上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name=上虞文化影院 tvg-logo=https://live.fanmingming.com/tv/上虞文化影院.png group-title=小地方,上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name=上虞新商都 tvg-logo=https://live.fanmingming.com/tv/上虞新商都.png group-title=小地方,上虞新商都
@@ -58,5 +60,5 @@ http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name=山西卫视 tvg-logo=https://live.fanmingming.com/tv/山西卫视.png group-title=卫视,山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-name=[session-cb4a46b6]
+#EXTINF:-1 tvg-name=[session-e1415596]
 undefined
