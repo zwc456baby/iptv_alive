@@ -11,6 +11,7 @@ const PROXY_ENV =
   "http_proxy=http://127.0.0.1:7890 https_proxy=http://127.0.0.1:7890";
 const fetch = require("node-fetch");
 var exec = require("child_process").exec;
+var execFile = require("child_process").execFile;
 
 async function verifyurl(url) {
   try {
@@ -31,7 +32,21 @@ async function verifyurl(url) {
 }
 async function geturlcontent(url) {
   try {
-    var res = await execmd(PROXY_ENV + " " + 'curl -s -L "' + url + '"');
+    var res = await new Promise((resolve) => {
+      execFile(
+        "curl",
+        ["-s", "-L", url],
+        {
+          env: Object.assign({}, process.env, {
+            http_proxy: "http://127.0.0.1:7890",
+            https_proxy: "http://127.0.0.1:7890",
+          }),
+        },
+        function (err, stdout, stderr) {
+          resolve([err, stdout, stderr]);
+        }
+      );
+    });
     if (res[0]) {
       return "";
     }
